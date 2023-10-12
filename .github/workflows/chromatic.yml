@@ -1,10 +1,10 @@
 ---
 name: Chromatic
 
-on:
-  push:
-    paths-ignore:
-      - '.github/workflows/**'
+#on:
+#  push:
+#    paths-ignore:
+#      - '.github/workflows/**'
 
 jobs:
   chromatic:
