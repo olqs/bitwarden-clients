@@ -1,9 +1,9 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "Bitwarden Custom"
   },
   "extName": {
-    "message": "Bitwarden - Libreng Password Manager",
+    "message": "Bitwarden Custom - Libreng Password Manager",
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
@@ -220,13 +220,13 @@
     "message": "Tulong at Mga Feedback"
   },
   "helpCenter": {
-    "message": "Bitwarden Tulong sentro"
+    "message": "Bitwarden Custom Tulong sentro"
   },
   "communityForums": {
-    "message": "I-eksplorang Bitwarden komunidad na mga forum"
+    "message": "I-eksplorang Bitwarden Custom komunidad na mga forum"
   },
   "contactSupport": {
-    "message": "Kontakin ang Bitwarden suporta"
+    "message": "Kontakin ang Bitwarden Custom suporta"
   },
   "sync": {
     "message": "Ikintal"
@@ -248,7 +248,7 @@
     "message": "Automatiko na gumawa ng mga malakas at natatanging mga password para sa iyong mga logins."
   },
   "bitWebVault": {
-    "message": "Bitwarden web vault"
+    "message": "Bitwarden Custom web vault"
   },
   "importItems": {
     "message": "Isingit ang Vault ngayon"
@@ -640,7 +640,7 @@
     "description": "Clipboard is the operating system thing where you copy/paste data to on your device."
   },
   "notificationAddDesc": {
-    "message": "Dapat bang tandaan ng Bitwarden ang password na ito para sa iyo?"
+    "message": "Dapat bang tandaan ng Bitwarden Custom ang password na ito para sa iyo?"
   },
   "notificationAddSave": {
     "message": "I-save"
@@ -652,13 +652,13 @@
     "message": "Tanungin ang update ng password ng isang login kapag napansin ang pagbabago sa websi."
   },
   "notificationChangeDesc": {
-    "message": "Nais mo bang i-update ang password na ito sa Bitwarden?"
+    "message": "Nais mo bang i-update ang password na ito sa Bitwarden Custom?"
   },
   "notificationChangeSave": {
     "message": "I-update"
   },
   "notificationUnlockDesc": {
-    "message": "Unlock your Bitwarden vault to complete the auto-fill request."
+    "message": "Unlock your Bitwarden Custom vault to complete the auto-fill request."
   },
   "notificationUnlock": {
     "message": "Unlock"
@@ -714,7 +714,7 @@
     "message": "Ang export na ito ay naka-encrypt ng iyong data gamit ang encryption key ng iyong account. Kung kailanman mo i-rotate ang encryption key ng iyong account, dapat mong i-export muli dahil hindi mo na mababawasan ang export file na ito."
   },
   "encExportAccountWarningDesc": {
-    "message": "Ang encryption keys ng account ay isa-isa lamang sa bawat user account ng Bitwarden, kaya hindi mo ma-import ang naka-encrypt na export sa ibang account."
+    "message": "Ang encryption keys ng account ay isa-isa lamang sa bawat user account ng Bitwarden Custom, kaya hindi mo ma-import ang naka-encrypt na export sa ibang account."
   },
   "exportMasterPassword": {
     "message": "Ipasok ang iyong master password para i-export ang iyong data sa vault."
@@ -726,7 +726,7 @@
     "message": "Matuto tungkol sa mga organisasyon"
   },
   "learnOrgConfirmation": {
-    "message": "Pinapahintulutan ka ng Bitwarden na i-share ang iyong mga item sa vault sa iba pang tao gamit ang isang organisasyon. Gusto mo bang bisitahin ang website ng bitwarden.com upang matuto nang higit pa?"
+    "message": "Pinapahintulutan ka ng Bitwarden Custom na i-share ang iyong mga item sa vault sa iba pang tao gamit ang isang organisasyon. Gusto mo bang bisitahin ang website ng bitwarden.com upang matuto nang higit pa?"
   },
   "moveToOrganization": {
     "message": "Lumipat sa organisasyon"
@@ -844,7 +844,7 @@
     "message": "Ikaw ay isang Premium na miyembro!"
   },
   "premiumCurrentMemberThanks": {
-    "message": "Salamat sa pagsuporta sa Bitwarden."
+    "message": "Salamat sa pagsuporta sa Bitwarden Custom."
   },
   "premiumPrice": {
     "message": "Lahat para lamang sa $PRICE$ /taon!",
@@ -973,7 +973,7 @@
     "message": "Kapaligirang self-hosted"
   },
   "selfHostedEnvironmentFooter": {
-    "message": "Tukuyin ang base URL ng iyong Bitwarden installation na naka-host sa on-premises."
+    "message": "Tukuyin ang base URL ng iyong Bitwarden Custom installation na naka-host sa on-premises."
   },
   "customEnvironment": {
     "message": "Kapaligirang Custom"
@@ -1405,7 +1405,7 @@
     "message": "Mahinang master password"
   },
   "weakMasterPasswordDesc": {
-    "message": "Ang master password na pinili mo ay mahina. Dapat gamitin mo ang isang makapangyarihang master password (o passphrase) para maayos na protektahan ang iyong account sa Bitwarden. Sigurado ka bang nais mong gamitin ang master password na ito?"
+    "message": "Ang master password na pinili mo ay mahina. Dapat gamitin mo ang isang makapangyarihang master password (o passphrase) para maayos na protektahan ang iyong account sa Bitwarden Custom. Sigurado ka bang nais mong gamitin ang master password na ito?"
   },
   "pin": {
     "message": "PIN",
@@ -1415,7 +1415,7 @@
     "message": "Unlock sa pamamagitan ng PIN"
   },
   "setYourPinCode": {
-    "message": "Itakda ang iyong PIN code para sa pag-unlock ng Bitwarden. Ang iyong mga setting ng PIN ay ma-reset kung kailanman ay lubusang lumabas ka mula sa application."
+    "message": "Itakda ang iyong PIN code para sa pag-unlock ng Bitwarden Custom. Ang iyong mga setting ng PIN ay ma-reset kung kailanman ay lubusang lumabas ka mula sa application."
   },
   "pinRequired": {
     "message": "Kinakailangan ang PIN code."
@@ -1430,7 +1430,7 @@
     "message": "Naghihintay ng kumpirmasyon mula sa desktop"
   },
   "awaitDesktopDesc": {
-    "message": "Mangyaring kumpirmahin gamit ang biometrics sa Bitwarden desktop application upang makapagtakda ng biometrics para sa browser."
+    "message": "Mangyaring kumpirmahin gamit ang biometrics sa Bitwarden Custom desktop application upang makapagtakda ng biometrics para sa browser."
   },
   "lockWithMasterPassOnRestart": {
     "message": "I-lock sa master password sa restart ng browser"
@@ -1501,7 +1501,7 @@
     "message": "The form is hosted by a different domain than the URI of your saved login. Choose OK to auto-fill anyway, or Cancel to stop."
   },
   "autofillIframeWarningTip": {
-    "message": "To prevent this warning in the future, save this URI, $HOSTNAME$, to your Bitwarden login item for this site.",
+    "message": "To prevent this warning in the future, save this URI, $HOSTNAME$, to your Bitwarden Custom login item for this site.",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -1591,13 +1591,13 @@
     "message": "Hindi naka set up ang pagsasama ng browser"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "Ang browser integration ay hindi naka-set up sa Bitwarden desktop application. Paki-set up ito sa settings sa loob ng desktop application."
+    "message": "Ang browser integration ay hindi naka-set up sa Bitwarden Custom desktop application. Paki-set up ito sa settings sa loob ng desktop application."
   },
   "startDesktopTitle": {
-    "message": "Simulan ang Bitwarden desktop application"
+    "message": "Simulan ang Bitwarden Custom desktop application"
   },
   "startDesktopDesc": {
-    "message": "Kinakailangan na simulan ang Bitwarden desktop application bago magamit ang unlock with biometrics."
+    "message": "Kinakailangan na simulan ang Bitwarden Custom desktop application bago magamit ang unlock with biometrics."
   },
   "errorEnableBiometricTitle": {
     "message": "Hindi makapag-set up ng biometrics"
@@ -1633,13 +1633,13 @@
     "message": "Biometrics failed"
   },
   "biometricsFailedDesc": {
-    "message": "Biometrics cannot be completed, consider using a master password or logging out. If this persists, please contact Bitwarden support."
+    "message": "Biometrics cannot be completed, consider using a master password or logging out. If this persists, please contact Bitwarden Custom support."
   },
   "nativeMessaginPermissionErrorTitle": {
     "message": "Permiso ay hindi ibinigay"
   },
   "nativeMessaginPermissionErrorDesc": {
-    "message": "Walang pahintulot upang makipag-ugnayan sa Bitwarden Desktop Application kaya hindi maaaring magbigay ng biometrics sa browser extension. Mangyaring subukan muli."
+    "message": "Walang pahintulot upang makipag-ugnayan sa Bitwarden Custom Desktop Application kaya hindi maaaring magbigay ng biometrics sa browser extension. Mangyaring subukan muli."
   },
   "nativeMessaginPermissionSidebarTitle": {
     "message": "Maling paghiling ng pahintulot"
@@ -1657,7 +1657,7 @@
     "message": "Inilayo na Domain"
   },
   "excludedDomainsDesc": {
-    "message": "Hindi tatanungin ng Bitwarden na i-save ang mga detalye ng pag-login para sa mga domain na ito. Kailangan mo nang i-refresh ang page para maipatupad ang mga pagbabago."
+    "message": "Hindi tatanungin ng Bitwarden Custom na i-save ang mga detalye ng pag-login para sa mga domain na ito. Kailangan mo nang i-refresh ang page para maipatupad ang mga pagbabago."
   },
   "excludedDomainsInvalidDomain": {
     "message": "$DOMAIN$ ay hindi isang valid domain",
@@ -1670,15 +1670,15 @@
   },
   "send": {
     "message": "Ipadala",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "searchSends": {
     "message": "Maghanap ng Mga Padala",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "addSend": {
     "message": "Idagdag ang Padala",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendTypeText": {
     "message": "Teksto"
@@ -1688,7 +1688,7 @@
   },
   "allSends": {
     "message": "Lahat ng Mga Padala",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "maxAccessCountReached": {
     "message": "Ang pinaka-access count ay nakaabot na",
@@ -1705,7 +1705,7 @@
   },
   "copySendLink": {
     "message": "Kopyahin ang Link ng Padala",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "removePassword": {
     "message": "Alisin ang Password"
@@ -1718,11 +1718,11 @@
   },
   "deletedSend": {
     "message": "Ipadala ang tinanggal",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendLink": {
     "message": "Ipadala ang link",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "disabled": {
     "message": "Ipadala nai-delete"
@@ -1732,23 +1732,23 @@
   },
   "deleteSend": {
     "message": "I-delete ang Ipadala",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "deleteSendConfirmation": {
     "message": "Sigurado ka bang gusto mo na i-delete ang Ipadala na ito?",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "editSend": {
     "message": "I-edit ang Ipadala",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendTypeHeader": {
     "message": "Anong uri ng Ipadala ang ito?",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendNameDesc": {
     "message": "Isang friendly name upang ilarawan ang Ipadala na ito.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendFileDesc": {
     "message": "Ang file na gusto mong ipadala."
@@ -1758,14 +1758,14 @@
   },
   "deletionDateDesc": {
     "message": "Ang Ipadala ay tatanggalin nang permanente sa tinukoy na petsa at oras.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "expirationDate": {
     "message": "Petsa ng pag-expire"
   },
   "expirationDateDesc": {
     "message": "Kung nakatakda, ang access sa Send na ito ay mag-expire sa tinukoy na petsa at oras.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "oneDay": {
     "message": "1 araw"
@@ -1787,56 +1787,56 @@
   },
   "maximumAccessCountDesc": {
     "message": "Kung nakatakda, ang mga user ay hindi na maaaring ma-access ang Send na ito pagkatapos makarating sa maximum access count.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendPasswordDesc": {
     "message": "Maipapayo na mag-require ng password para sa mga user na ma-access ang Send na ito.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendNotesDesc": {
     "message": "Pribadong mga tala tungkol sa Send na ito.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendDisableDesc": {
     "message": "I-deactivate ang Send na ito para hindi na ito ma-access.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendShareDesc": {
     "message": "Kopyahin ang link ng Send na ito sa clipboard pagkatapos i-save.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendTextDesc": {
     "message": "Ang teksto na nais mong ipadala."
   },
   "sendHideText": {
     "message": "Itago ang default na teksto ng Send na ito.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "currentAccessCount": {
     "message": "Kasalukuyang access count"
   },
   "createSend": {
     "message": "Bagong Ipadala",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "newPassword": {
     "message": "Bagong password"
   },
   "sendDisabled": {
     "message": "Ipadala inalis",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendDisabledWarning": {
     "message": "Dahil sa isang enterprise policy, ikaw ay magagawang lamang na tanggalin ang umiiral na Ipadala.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "createdSend": {
     "message": "Ipadala na nilikha",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "editedSend": {
     "message": "Ipadala na nai-save",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendLinuxChromiumFileWarning": {
     "message": "Upang pumili ng isang file, buksan ang extension sa sidebar (kung posible) o bumalik sa isang bagong window sa pamamagitan ng pag-click sa banner na ito."
@@ -2159,7 +2159,7 @@
     "message": "Mag log in gamit ang device"
   },
   "loginWithDeviceEnabledInfo": {
-    "message": "Ang pag log in gamit ang device ay dapat na naka set up sa mga setting ng Bitwarden app. Kailangan mo ng ibang opsyon?"
+    "message": "Ang pag log in gamit ang device ay dapat na naka set up sa mga setting ng Bitwarden Custom app. Kailangan mo ng ibang opsyon?"
   },
   "fingerprintPhraseHeader": {
     "message": "Hulmabig ng Hilik ng Dako"

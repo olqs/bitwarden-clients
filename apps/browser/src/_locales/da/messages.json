@@ -1,9 +1,9 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "Bitwarden Custom"
   },
   "extName": {
-    "message": "Bitwarden - Gratis adgangskodemanager",
+    "message": "Bitwarden Custom - Gratis adgangskodemanager",
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
@@ -220,13 +220,13 @@
     "message": "Hjælp & feedback"
   },
   "helpCenter": {
-    "message": "Bitwarden Hjælpecenter"
+    "message": "Bitwarden Custom Hjælpecenter"
   },
   "communityForums": {
-    "message": "Tjek Bitwardens fællesskabsfora ud"
+    "message": "Tjek Bitwarden Customs fællesskabsfora ud"
   },
   "contactSupport": {
-    "message": "Kontakt Bitwarden-support"
+    "message": "Kontakt Bitwarden Custom-support"
   },
   "sync": {
     "message": "Synkronisér"
@@ -248,7 +248,7 @@
     "message": "Opret automatisk stærke, unikke adgangskoder til dine logins."
   },
   "bitWebVault": {
-    "message": "Bitwarden web-boks"
+    "message": "Bitwarden Custom web-boks"
   },
   "importItems": {
     "message": "Importér elementer"
@@ -640,7 +640,7 @@
     "description": "Clipboard is the operating system thing where you copy/paste data to on your device."
   },
   "notificationAddDesc": {
-    "message": "Skal Bitwarden huske denne adgangskode for dig?"
+    "message": "Skal Bitwarden Custom huske denne adgangskode for dig?"
   },
   "notificationAddSave": {
     "message": "Gem"
@@ -652,13 +652,13 @@
     "message": "Bed om at opdatere et logins adgangskode, når der registreres en ændring på en hjemmeside."
   },
   "notificationChangeDesc": {
-    "message": "Vil du opdatere denne adgangskode i Bitwarden?"
+    "message": "Vil du opdatere denne adgangskode i Bitwarden Custom?"
   },
   "notificationChangeSave": {
     "message": "Opdatér"
   },
   "notificationUnlockDesc": {
-    "message": "Oplås din Bitwarden boks for at færdiggøre autoudfyldanmodningen."
+    "message": "Oplås din Bitwarden Custom boks for at færdiggøre autoudfyldanmodningen."
   },
   "notificationUnlock": {
     "message": "Oplås"
@@ -714,7 +714,7 @@
     "message": "Denne eksport krypterer dine data vha. din kontos krypteringsnøgle. Roterer du på et tidspunkt denne kontokrypteringsnøgle, skal du eksportere igen, da du ikke vil kunne dekryptere denne eksportfil."
   },
   "encExportAccountWarningDesc": {
-    "message": "Kontokrypteringsnøgler er unikke for hver Bitwarden-brugerkonto, så du kan ikke importere en krypteret eksport til en anden konto."
+    "message": "Kontokrypteringsnøgler er unikke for hver Bitwarden Custom-brugerkonto, så du kan ikke importere en krypteret eksport til en anden konto."
   },
   "exportMasterPassword": {
     "message": "Indtast din hovedadgangskode for at eksportere dine data fra boksen."
@@ -726,7 +726,7 @@
     "message": "Få mere at vide om organisationer"
   },
   "learnOrgConfirmation": {
-    "message": "Bitwarden giver dig mulighed for at dele elementer i din boks med andre ved hjælp af en organisation. Vil du besøge bitwarden.com-webstedet for at få mere at vide?"
+    "message": "Bitwarden Custom giver dig mulighed for at dele elementer i din boks med andre ved hjælp af en organisation. Vil du besøge bitwarden.com-webstedet for at få mere at vide?"
   },
   "moveToOrganization": {
     "message": "Flyt til organisation"
@@ -844,7 +844,7 @@
     "message": "Du er premium-medlem!"
   },
   "premiumCurrentMemberThanks": {
-    "message": "Tak fordi du støtter Bitwarden."
+    "message": "Tak fordi du støtter Bitwarden Custom."
   },
   "premiumPrice": {
     "message": "Alt dette for kun $PRICE$ /år!",
@@ -973,7 +973,7 @@
     "message": "Selv-hosted miljø"
   },
   "selfHostedEnvironmentFooter": {
-    "message": "Angiv grund-URL'en i din lokal-hostede Bitwarden-installation."
+    "message": "Angiv grund-URL'en i din lokal-hostede Bitwarden Custom-installation."
   },
   "customEnvironment": {
     "message": "Brugerdefineret miljø"
@@ -1405,7 +1405,7 @@
     "message": "Svag hovedadgangskode"
   },
   "weakMasterPasswordDesc": {
-    "message": "Hovedadgangskoden du har valgt er svag. Du skal bruge en stærk hovedadgangskode (eller en adgangssætning) for at beskytte din Bitwarden-konto korrekt. Er du sikker på, at du vil bruge denne hovedadgangskode?"
+    "message": "Hovedadgangskoden du har valgt er svag. Du skal bruge en stærk hovedadgangskode (eller en adgangssætning) for at beskytte din Bitwarden Custom-konto korrekt. Er du sikker på, at du vil bruge denne hovedadgangskode?"
   },
   "pin": {
     "message": "Pinkode",
@@ -1415,7 +1415,7 @@
     "message": "Lås op med pinkode"
   },
   "setYourPinCode": {
-    "message": "Indstil din pinkode til at låse Bitwarden op. Dine pin-indstillinger nulstilles, hvis du nogensinde logger helt ud af programmet."
+    "message": "Indstil din pinkode til at låse Bitwarden Custom op. Dine pin-indstillinger nulstilles, hvis du nogensinde logger helt ud af programmet."
   },
   "pinRequired": {
     "message": "Pinkode er påkrævet."
@@ -1430,7 +1430,7 @@
     "message": "Afventer bekræftelse fra skrivebordet"
   },
   "awaitDesktopDesc": {
-    "message": "Bekræft venligst brug af biometri i Bitwarden skrivebordsapplikationen for at aktivere biometri for browseren."
+    "message": "Bekræft venligst brug af biometri i Bitwarden Custom skrivebordsapplikationen for at aktivere biometri for browseren."
   },
   "lockWithMasterPassOnRestart": {
     "message": "Lås med hovedadgangskode ved genstart af browseren"
@@ -1501,7 +1501,7 @@
     "message": "Formularen hostes af et andet domæne end URI'en for det gemte login. Vælg OK for at autoudfylde alligevel, eller Afbryd for at stoppe."
   },
   "autofillIframeWarningTip": {
-    "message": "For at forhindre denne advarsel i fremtiden, så gem denne URI, $HOSTNAME$, til Bitwarden login-emnet for dette websted.",
+    "message": "For at forhindre denne advarsel i fremtiden, så gem denne URI, $HOSTNAME$, til Bitwarden Custom login-emnet for dette websted.",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -1591,13 +1591,13 @@
     "message": "Browserintegration er ikke konfigureret"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "Browserintegration er ikke konfigureret i Bitwarden skrivebordsapplikationen. Aktivér det i indstillingerne i skrivebordsapplikationen."
+    "message": "Browserintegration er ikke konfigureret i Bitwarden Custom skrivebordsapplikationen. Aktivér det i indstillingerne i skrivebordsapplikationen."
   },
   "startDesktopTitle": {
-    "message": "Start Bitwarden skrivebordsapplikationen"
+    "message": "Start Bitwarden Custom skrivebordsapplikationen"
   },
   "startDesktopDesc": {
-    "message": "Bitwarden skrivebordsapplikationen skal startes, før oplåsning med biometri kan bruges."
+    "message": "Bitwarden Custom skrivebordsapplikationen skal startes, før oplåsning med biometri kan bruges."
   },
   "errorEnableBiometricTitle": {
     "message": "Kan ikke aktivere biometri"
@@ -1633,13 +1633,13 @@
     "message": "Biometri mislykkedes"
   },
   "biometricsFailedDesc": {
-    "message": "Biometri kan ikke fuldføres, overvej at bruge en hovedadgangskode eller logge ud og ind igen. Fortsætter problemet, kontakt Bitwarden-supporten."
+    "message": "Biometri kan ikke fuldføres, overvej at bruge en hovedadgangskode eller logge ud og ind igen. Fortsætter problemet, kontakt Bitwarden Custom-supporten."
   },
   "nativeMessaginPermissionErrorTitle": {
     "message": "Tilladelse ikke givet"
   },
   "nativeMessaginPermissionErrorDesc": {
-    "message": "Uden tilladelse til at kommunikere med Bitwarden skrivebordsapplikationen kan vi ikke levere biometri i browserudvidelsen. Prøv igen."
+    "message": "Uden tilladelse til at kommunikere med Bitwarden Custom skrivebordsapplikationen kan vi ikke levere biometri i browserudvidelsen. Prøv igen."
   },
   "nativeMessaginPermissionSidebarTitle": {
     "message": "Fejl ved anmodning om tilladelse"
@@ -1657,7 +1657,7 @@
     "message": "Ekskluderede domæner"
   },
   "excludedDomainsDesc": {
-    "message": "Bitwarden vil ikke bede om at gemme login-detaljer for disse domæner. Du skal opdatere siden for at ændringerne kan træde i kraft."
+    "message": "Bitwarden Custom vil ikke bede om at gemme login-detaljer for disse domæner. Du skal opdatere siden for at ændringerne kan træde i kraft."
   },
   "excludedDomainsInvalidDomain": {
     "message": "$DOMAIN$ er ikke et gyldigt domæne",
@@ -1670,15 +1670,15 @@
   },
   "send": {
     "message": "Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "searchSends": {
     "message": "Søg i Sends",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "addSend": {
     "message": "Tilføj Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendTypeText": {
     "message": "Tekst"
@@ -1688,7 +1688,7 @@
   },
   "allSends": {
     "message": "Alle Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "maxAccessCountReached": {
     "message": "Maksimalt adgangsantal nået",
@@ -1705,7 +1705,7 @@
   },
   "copySendLink": {
     "message": "Kopiér Send link",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "removePassword": {
     "message": "Fjern adgangskode"
@@ -1718,11 +1718,11 @@
   },
   "deletedSend": {
     "message": "Send slettet",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendLink": {
     "message": "Send link",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "disabled": {
     "message": "Deaktiveret"
@@ -1732,23 +1732,23 @@
   },
   "deleteSend": {
     "message": "Slet Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "deleteSendConfirmation": {
     "message": "Er du sikker på, at du vil slette denne Send?",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "editSend": {
     "message": "Redigér Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendTypeHeader": {
     "message": "Hvilken type Send er denne?",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendNameDesc": {
     "message": "Et venligt navn til at beskrive denne Send.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendFileDesc": {
     "message": "Den fil, du vil sende."
@@ -1758,14 +1758,14 @@
   },
   "deletionDateDesc": {
     "message": "Send'en slettes permanent på den angivne dato og tid.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "expirationDate": {
     "message": "Udløbsdato"
   },
   "expirationDateDesc": {
     "message": "Hvis angivet, vil adgangen til denne Send udløbe på den angivne dato og tidspunkt.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "oneDay": {
     "message": "1 dag"
@@ -1787,56 +1787,56 @@
   },
   "maximumAccessCountDesc": {
     "message": "Hvis opsat, vil brugere ikke længere kunne tilgå denne Send, når det maksimale adgangsantal er nået.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendPasswordDesc": {
     "message": "Valgfrit brugeradgangskodekrav for at tilgå denne Send.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendNotesDesc": {
     "message": "Private notater om denne Send.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendDisableDesc": {
     "message": "Deaktivér denne Send, så ingen kan tilgå den.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendShareDesc": {
     "message": "Kopiér denne Sends link til udklipsholderen når du gemmer.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendTextDesc": {
     "message": "Den tekst, du vil sende."
   },
   "sendHideText": {
     "message": "Skjul denne Sends tekst som standard.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "currentAccessCount": {
     "message": "Aktuelt antal tilgange"
   },
   "createSend": {
     "message": "Ny Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "newPassword": {
     "message": "Ny adgangskode"
   },
   "sendDisabled": {
     "message": "Send fjernet",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendDisabledWarning": {
     "message": "Du kan grundet en virksomhedspolitik kun slette en eksisterende Send.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "createdSend": {
     "message": "Send oprettet",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "editedSend": {
     "message": "Send gemt",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendLinuxChromiumFileWarning": {
     "message": "For at vælge en fil, åben udvidelsen i sidepanelet (om muligt) eller pop ud til et nyt vindue ved at klikke på dette banner."
@@ -2159,7 +2159,7 @@
     "message": "Log ind med enhed"
   },
   "loginWithDeviceEnabledInfo": {
-    "message": "Log ind med enhed skal være opsat i indstillingerne i Bitwarden mobil-appen. Behov for en anden mulighed?"
+    "message": "Log ind med enhed skal være opsat i indstillingerne i Bitwarden Custom mobil-appen. Behov for en anden mulighed?"
   },
   "fingerprintPhraseHeader": {
     "message": "Fingeraftrykssætning"

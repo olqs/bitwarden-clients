@@ -1,9 +1,9 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "Bitwarden Custom"
   },
   "extName": {
-    "message": "Bitwarden – Bezplatný správce hesel",
+    "message": "Bitwarden Custom – Bezplatný správce hesel",
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
@@ -220,10 +220,10 @@
     "message": "Nápověda a zpětná vazba"
   },
   "helpCenter": {
-    "message": "Centrum nápovědy Bitwarden"
+    "message": "Centrum nápovědy Bitwarden Custom"
   },
   "communityForums": {
-    "message": "Prozkoumejte komunitní fóra Bitwarden"
+    "message": "Prozkoumejte komunitní fóra Bitwarden Custom"
   },
   "contactSupport": {
     "message": "Kontakt na podporu"
@@ -248,7 +248,7 @@
     "message": "Vygenerujte si silné a unikátní heslo pro přihlašovací údaje."
   },
   "bitWebVault": {
-    "message": "Webový trezor Bitwardenu"
+    "message": "Webový trezor Bitwarden Customu"
   },
   "importItems": {
     "message": "Importovat položky"
@@ -640,7 +640,7 @@
     "description": "Clipboard is the operating system thing where you copy/paste data to on your device."
   },
   "notificationAddDesc": {
-    "message": "Má si Bitwarden toto heslo pamatovat?"
+    "message": "Má si Bitwarden Custom toto heslo pamatovat?"
   },
   "notificationAddSave": {
     "message": "Uložit"
@@ -652,13 +652,13 @@
     "message": "Zeptat se na aktualizaci hesla pro přihlášení, pokud je na webové stránce zjištěno použití jiného hesla."
   },
   "notificationChangeDesc": {
-    "message": "Chcete aktualizovat toto heslo v Bitwardenu?"
+    "message": "Chcete aktualizovat toto heslo v Bitwarden Customu?"
   },
   "notificationChangeSave": {
     "message": "Aktualizovat"
   },
   "notificationUnlockDesc": {
-    "message": "Pro dokončení požadavku na automatické vyplnění odemkněte Váš trezor na Bitwardenu."
+    "message": "Pro dokončení požadavku na automatické vyplnění odemkněte Váš trezor na Bitwarden Customu."
   },
   "notificationUnlock": {
     "message": "Odemknout"
@@ -714,7 +714,7 @@
     "message": "Tento export zašifruje Vaše data pomocí šifrovacího klíče Vašeho účtu. Pokud někdy změníte šifrovací klíč Vašeho účtu, měli by jste vyexportovat data znovu, protože tento exportovaný soubor nebudete moci dešifrovat."
   },
   "encExportAccountWarningDesc": {
-    "message": "Šifrovací klíče účtu jsou pro každý uživatelský účet Bitwardenu jedinečné, takže nelze importovat šifrovaný export do jiného účtu."
+    "message": "Šifrovací klíče účtu jsou pro každý uživatelský účet Bitwarden Customu jedinečné, takže nelze importovat šifrovaný export do jiného účtu."
   },
   "exportMasterPassword": {
     "message": "Pro exportování dat zadejte své hlavní heslo."
@@ -726,7 +726,7 @@
     "message": "Více o organizacích"
   },
   "learnOrgConfirmation": {
-    "message": "Bitwarden Vám umožňuje sdílet položky v trezoru s ostatními prostřednictvím organizace. Chcete přejít na bitwarden.com a dozvědět se více?"
+    "message": "Bitwarden Custom Vám umožňuje sdílet položky v trezoru s ostatními prostřednictvím organizace. Chcete přejít na bitwarden.com a dozvědět se více?"
   },
   "moveToOrganization": {
     "message": "Přesunout do organizace"
@@ -844,7 +844,7 @@
     "message": "Jste prémiovým členem!"
   },
   "premiumCurrentMemberThanks": {
-    "message": "Děkujeme za podporu Bitwardenu."
+    "message": "Děkujeme za podporu Bitwarden Customu."
   },
   "premiumPrice": {
     "message": "Vše jen za $PRICE$ ročně!",
@@ -973,7 +973,7 @@
     "message": "Vlastní hostované prostředí"
   },
   "selfHostedEnvironmentFooter": {
-    "message": "Zadejte základní URL adresu vlastní hostované aplikace Bitwarden."
+    "message": "Zadejte základní URL adresu vlastní hostované aplikace Bitwarden Custom."
   },
   "customEnvironment": {
     "message": "Vlastní prostředí"
@@ -1405,7 +1405,7 @@
     "message": "Slabé hlavní heslo"
   },
   "weakMasterPasswordDesc": {
-    "message": "Zvolené hlavní heslo je slabé. Pro správnou ochranu účtu Bitwardenu byste měli použít silné hlavní heslo (nebo heslovou frázi). Opravdu chcete toto heslo použít?"
+    "message": "Zvolené hlavní heslo je slabé. Pro správnou ochranu účtu Bitwarden Customu byste měli použít silné hlavní heslo (nebo heslovou frázi). Opravdu chcete toto heslo použít?"
   },
   "pin": {
     "message": "PIN",
@@ -1430,7 +1430,7 @@
     "message": "Čeká se na potvrzení z aplikace v počítači"
   },
   "awaitDesktopDesc": {
-    "message": "Pro povolení biometrie v prohlížeči potvrďte její použití v desktopové aplikaci Bitwarden."
+    "message": "Pro povolení biometrie v prohlížeči potvrďte její použití v desktopové aplikaci Bitwarden Custom."
   },
   "lockWithMasterPassOnRestart": {
     "message": "Zamknout trezor při restartu prohlížeče pomocí hlavního hesla"
@@ -1501,7 +1501,7 @@
     "message": "Formulář je hostován jinou doménou než URI uloženého přihlášení. Zvolte OK pro automatické vyplnění nebo Zrušit pro zrušení."
   },
   "autofillIframeWarningTip": {
-    "message": "Aby se zabránilo tomuto varování v budoucnu, uložte tuto URI: $HOSTNAME$ do vaší přihlašovací položky Bitwarden pro tuto stránku.",
+    "message": "Aby se zabránilo tomuto varování v budoucnu, uložte tuto URI: $HOSTNAME$ do vaší přihlašovací položky Bitwarden Custom pro tuto stránku.",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -1591,13 +1591,13 @@
     "message": "Integrace prohlížeče není nastavena"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "Integrace prohlížeče není v aplikaci Bitwarden nastavena. Nastavte ji v aplikaci pro počítač."
+    "message": "Integrace prohlížeče není v aplikaci Bitwarden Custom nastavena. Nastavte ji v aplikaci pro počítač."
   },
   "startDesktopTitle": {
-    "message": "Spustit aplikaci Bitwarden pro počítač"
+    "message": "Spustit aplikaci Bitwarden Custom pro počítač"
   },
   "startDesktopDesc": {
-    "message": "Před použitím této funkce musí být spuštěna aplikace Bitwarden pro počítač."
+    "message": "Před použitím této funkce musí být spuštěna aplikace Bitwarden Custom pro počítač."
   },
   "errorEnableBiometricTitle": {
     "message": "Nelze nastavit biometrii"
@@ -1633,13 +1633,13 @@
     "message": "Biometrika selhala"
   },
   "biometricsFailedDesc": {
-    "message": "Biometriku nelze dokončit, zvažte použití hlavního hesla nebo odhlášení. Pokud to přetrvává, kontaktujte podporu Bitwardenu."
+    "message": "Biometriku nelze dokončit, zvažte použití hlavního hesla nebo odhlášení. Pokud to přetrvává, kontaktujte podporu Bitwarden Customu."
   },
   "nativeMessaginPermissionErrorTitle": {
     "message": "Oprávnění nebylo uděleno"
   },
   "nativeMessaginPermissionErrorDesc": {
-    "message": "Bez oprávnění ke komunikaci s aplikací Bitwarden pro počítač nelze v rozšíření prohlížeče používat biometrické údaje. Zkuste to znovu."
+    "message": "Bez oprávnění ke komunikaci s aplikací Bitwarden Custom pro počítač nelze v rozšíření prohlížeče používat biometrické údaje. Zkuste to znovu."
   },
   "nativeMessaginPermissionSidebarTitle": {
     "message": "Žádost o oprávnění selhala"
@@ -1657,7 +1657,7 @@
     "message": "Vyloučené domény"
   },
   "excludedDomainsDesc": {
-    "message": "Bitwarden nebude žádat o uložení přihlašovacích údajů pro tyto domény. Aby se změny projevily, musíte stránku obnovit."
+    "message": "Bitwarden Custom nebude žádat o uložení přihlašovacích údajů pro tyto domény. Aby se změny projevily, musíte stránku obnovit."
   },
   "excludedDomainsInvalidDomain": {
     "message": "$DOMAIN$ není platná doména",
@@ -1670,15 +1670,15 @@
   },
   "send": {
     "message": "Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "searchSends": {
     "message": "Prohledat Sends",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "addSend": {
     "message": "Přidat Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendTypeText": {
     "message": "Text"
@@ -1688,7 +1688,7 @@
   },
   "allSends": {
     "message": "Všechny Sends",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "maxAccessCountReached": {
     "message": "Dosažen maximální počet přístupů",
@@ -1705,7 +1705,7 @@
   },
   "copySendLink": {
     "message": "Zkopírovat odkaz Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "removePassword": {
     "message": "Odebrat heslo"
@@ -1718,11 +1718,11 @@
   },
   "deletedSend": {
     "message": "Send smazán",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendLink": {
     "message": "Odkaz pro Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "disabled": {
     "message": "Zakázáno"
@@ -1732,23 +1732,23 @@
   },
   "deleteSend": {
     "message": "Smazat Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "deleteSendConfirmation": {
     "message": "Opravdu chcete smazat tento Send?",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "editSend": {
     "message": "Upravit Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendTypeHeader": {
     "message": "Jakého typu je tento Send?",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendNameDesc": {
     "message": "Přátelský název pro popis tohoto Send.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendFileDesc": {
     "message": "Soubor, který chcete odeslat."
@@ -1758,14 +1758,14 @@
   },
   "deletionDateDesc": {
     "message": "Tento Send bude trvale smazán v určený datum a čas.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "expirationDate": {
     "message": "Datum vypršení platnosti"
   },
   "expirationDateDesc": {
     "message": "Je-li nastaveno, přístup k tomuto Send vyprší v daný datum a čas.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "oneDay": {
     "message": "1 den"
@@ -1787,56 +1787,56 @@
   },
   "maximumAccessCountDesc": {
     "message": "Je-li nastaveno, uživatelé již nebudou mít přístup k tomuto Send, jakmile bude dosaženo maximálního počtu přístupů.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendPasswordDesc": {
     "message": "Volitelně vyžadovat heslo pro přístup k tomuto Send.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendNotesDesc": {
     "message": "Soukromé poznámky o tomto Send.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendDisableDesc": {
     "message": "Deaktivuje tento Send, díky čemuž k němu nebude moci nikdo přistoupit.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendShareDesc": {
     "message": "Zkopíruje odkaz pro sdílení tohoto Send po uložení.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendTextDesc": {
     "message": "Text, který chcete odeslat."
   },
   "sendHideText": {
     "message": "Skrýt ve výchozím stavu text tohoto Send.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "currentAccessCount": {
     "message": "Aktuální počet přístupů"
   },
   "createSend": {
     "message": "Nový Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "newPassword": {
     "message": "Nové heslo"
   },
   "sendDisabled": {
     "message": "Send odebrán",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendDisabledWarning": {
     "message": "Z důvodu podnikových zásad můžete smazat pouze existující Send.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "createdSend": {
     "message": "Send vytvořen",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "editedSend": {
     "message": "Send upraven",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendLinuxChromiumFileWarning": {
     "message": "Chcete-li vybrat soubor, otevřete rozšíření v postranním panelu (pokud je to možné) nebo jej otevřete v novém okně klepnutím na tento banner."
@@ -2159,7 +2159,7 @@
     "message": "Přihlásit se zařízením"
   },
   "loginWithDeviceEnabledInfo": {
-    "message": "Přihlášení zařízením musí být nastaveno v aplikaci Bitwarden pro počítač. Potřebujete další volby?"
+    "message": "Přihlášení zařízením musí být nastaveno v aplikaci Bitwarden Custom pro počítač. Potřebujete další volby?"
   },
   "fingerprintPhraseHeader": {
     "message": "Fráze otisku prstu"

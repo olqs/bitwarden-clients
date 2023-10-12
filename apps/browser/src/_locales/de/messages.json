@@ -1,9 +1,9 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "Bitwarden Custom"
   },
   "extName": {
-    "message": "Bitwarden - Kostenloser Passwortmanager",
+    "message": "Bitwarden Custom - Kostenloser Passwortmanager",
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
@@ -220,13 +220,13 @@
     "message": "Hilfe & Feedback"
   },
   "helpCenter": {
-    "message": "Bitwarden Hilfezentrum"
+    "message": "Bitwarden Custom Hilfezentrum"
   },
   "communityForums": {
-    "message": "Bitwarden Community-Foren erkunden"
+    "message": "Bitwarden Custom Community-Foren erkunden"
   },
   "contactSupport": {
-    "message": "Bitwarden Support kontaktieren"
+    "message": "Bitwarden Custom Support kontaktieren"
   },
   "sync": {
     "message": "Synchronisierung"
@@ -248,7 +248,7 @@
     "message": "Generiert automatisch ein starkes und einzigartiges Passwort."
   },
   "bitWebVault": {
-    "message": "Bitwarden Web-Tresor"
+    "message": "Bitwarden Custom Web-Tresor"
   },
   "importItems": {
     "message": "Einträge importieren"
@@ -531,7 +531,7 @@
     "message": "Master-Passwort ändern"
   },
   "changeMasterPasswordConfirmation": {
-    "message": "Du kannst dein Master-Passwort im Bitwarden.com Web-Tresor ändern. Möchtest du die Seite jetzt öffnen?"
+    "message": "Du kannst dein Master-Passwort im Bitwarden Custom.com Web-Tresor ändern. Möchtest du die Seite jetzt öffnen?"
   },
   "twoStepLoginConfirmation": {
     "message": "Mit der Zwei-Faktor-Authentifizierung wird dein Konto zusätzlich abgesichert, da jede Anmeldung mit einem anderen Gerät wie einem Sicherheitsschlüssel, einer Authentifizierungs-App, einer SMS, einem Anruf oder einer E-Mail verifiziert werden muss. Die Zwei-Faktor-Authentifizierung kann im bitwarden.com Web-Tresor aktiviert werden. Möchtest du die Website jetzt öffnen?"
@@ -640,7 +640,7 @@
     "description": "Clipboard is the operating system thing where you copy/paste data to on your device."
   },
   "notificationAddDesc": {
-    "message": "Soll Bitwarden sich dieses Passwort merken?"
+    "message": "Soll Bitwarden Custom sich dieses Passwort merken?"
   },
   "notificationAddSave": {
     "message": "Ja, jetzt speichern"
@@ -652,13 +652,13 @@
     "message": "Nach dem Aktualisieren eines Passworts fragen, wenn eine Änderung auf einer Website erkannt wird."
   },
   "notificationChangeDesc": {
-    "message": "Möchtest du dieses Passwort in Bitwarden aktualisieren?"
+    "message": "Möchtest du dieses Passwort in Bitwarden Custom aktualisieren?"
   },
   "notificationChangeSave": {
     "message": "Aktualisieren"
   },
   "notificationUnlockDesc": {
-    "message": "Entsperre deinen Bitwarden Tresor, um die Auto-Ausfüllen-Anfrage abzuschließen."
+    "message": "Entsperre deinen Bitwarden Custom Tresor, um die Auto-Ausfüllen-Anfrage abzuschließen."
   },
   "notificationUnlock": {
     "message": "Entsperren"
@@ -714,7 +714,7 @@
     "message": "Dieser Export verschlüsselt deine Daten mit dem Verschlüsselungscode deines Kontos. Falls du deinen Verschlüsselungscode erneuerst, solltest du den Export erneut durchführen, da du die zuvor erstellte Datei ansonsten nicht mehr entschlüsseln kannst."
   },
   "encExportAccountWarningDesc": {
-    "message": "Die Verschlüsselungscodes eines Kontos sind für jedes Bitwarden Benutzerkonto einzigartig, deshalb kannst du keinen verschlüsselten Export in ein anderes Konto importieren."
+    "message": "Die Verschlüsselungscodes eines Kontos sind für jedes Bitwarden Custom Benutzerkonto einzigartig, deshalb kannst du keinen verschlüsselten Export in ein anderes Konto importieren."
   },
   "exportMasterPassword": {
     "message": "Gib das Masterpasswort ein, um deine Tresordaten zu exportieren."
@@ -726,7 +726,7 @@
     "message": "Erfahre mehr über Organisationen"
   },
   "learnOrgConfirmation": {
-    "message": "Bitwarden erlaubt es dir deine Tresor Einträge mit anderen zu teilen, wenn du einen Organisations Account hast. Möchtest du bitwarden.com besuchen, um mehr zu erfahren?"
+    "message": "Bitwarden Custom erlaubt es dir deine Tresor Einträge mit anderen zu teilen, wenn du einen Organisations Account hast. Möchtest du bitwarden.com besuchen, um mehr zu erfahren?"
   },
   "moveToOrganization": {
     "message": "In Organisation verschieben"
@@ -805,7 +805,7 @@
     "message": "Mitgliedschaft verwalten"
   },
   "premiumManageAlert": {
-    "message": "Du kannst deine Mitgliedschaft im Bitwarden.com Webtresor verwalten. Möchtest du die Seite jetzt aufrufen?"
+    "message": "Du kannst deine Mitgliedschaft im Bitwarden Custom.com Webtresor verwalten. Möchtest du die Seite jetzt aufrufen?"
   },
   "premiumRefresh": {
     "message": "Mitgliedschaft erneuern"
@@ -838,13 +838,13 @@
     "message": "Premium-Mitgliedschaft kaufen"
   },
   "premiumPurchaseAlert": {
-    "message": "Du kannst deine Premium-Mitgliedschaft im Bitwarden.com Web-Tresor kaufen. Möchtest du die Website jetzt besuchen?"
+    "message": "Du kannst deine Premium-Mitgliedschaft im Bitwarden Custom.com Web-Tresor kaufen. Möchtest du die Website jetzt besuchen?"
   },
   "premiumCurrentMember": {
     "message": "Du bist jetzt Premium-Mitglied!"
   },
   "premiumCurrentMemberThanks": {
-    "message": "Vielen Dank, dass du Bitwarden unterstützt."
+    "message": "Vielen Dank, dass du Bitwarden Custom unterstützt."
   },
   "premiumPrice": {
     "message": "Das alles für %price% pro Jahr!",
@@ -973,7 +973,7 @@
     "message": "Selbst gehostete Umgebung"
   },
   "selfHostedEnvironmentFooter": {
-    "message": "Bitte gib die Basis-URL deiner selbst gehosteten Bitwarden-Installation an."
+    "message": "Bitte gib die Basis-URL deiner selbst gehosteten Bitwarden Custom-Installation an."
   },
   "customEnvironment": {
     "message": "Benutzerdefinierte Umgebung"
@@ -1405,7 +1405,7 @@
     "message": "Schwaches Master-Passwort"
   },
   "weakMasterPasswordDesc": {
-    "message": "Das Haupt-Passwort, das du gewählt hast ist schwach. Du solltest ein starkes Haupt-Passwort auswählen, um dein Bitwarden-Konto richtig zu schützen. Bist du sicher, dass du dieses Haupt-Passwort verwenden sollen?"
+    "message": "Das Haupt-Passwort, das du gewählt hast ist schwach. Du solltest ein starkes Haupt-Passwort auswählen, um dein Bitwarden Custom-Konto richtig zu schützen. Bist du sicher, dass du dieses Haupt-Passwort verwenden sollen?"
   },
   "pin": {
     "message": "PIN",
@@ -1415,7 +1415,7 @@
     "message": "Mit PIN-Code entsperren"
   },
   "setYourPinCode": {
-    "message": "Gebe deinen PIN-Code für das Entsperren von Bitwarden ein. Deine PIN-Einstellungen werden zurückgesetzt, wenn du dich vollständig von der Anwendung abmeldest."
+    "message": "Gebe deinen PIN-Code für das Entsperren von Bitwarden Custom ein. Deine PIN-Einstellungen werden zurückgesetzt, wenn du dich vollständig von der Anwendung abmeldest."
   },
   "pinRequired": {
     "message": "PIN-Code ist erforderlich."
@@ -1430,7 +1430,7 @@
     "message": "Warte auf Bestätigung vom Desktop"
   },
   "awaitDesktopDesc": {
-    "message": "Bitte bestätige die Verwendung von Biometrie in der Bitwarden Desktop-Anwendung, um Biometrie für den Browser einzurichten."
+    "message": "Bitte bestätige die Verwendung von Biometrie in der Bitwarden Custom Desktop-Anwendung, um Biometrie für den Browser einzurichten."
   },
   "lockWithMasterPassOnRestart": {
     "message": "Bei Neustart des Browsers mit Master-Passwort sperren"
@@ -1501,7 +1501,7 @@
     "message": "Das Formular wird von einer anderen Domain als der URI deines gespeicherten Logins gehostet. Wähle OK, um trotzdem automatisch auszufüllen, oder Abbrechen, um aufzuhören."
   },
   "autofillIframeWarningTip": {
-    "message": "Um diese Warnung in Zukunft zu verhindern, speichere diese URI, $HOSTNAME$, in deinem Bitwarden Zugangsdaten-Eintrag für diese Seite.",
+    "message": "Um diese Warnung in Zukunft zu verhindern, speichere diese URI, $HOSTNAME$, in deinem Bitwarden Custom Zugangsdaten-Eintrag für diese Seite.",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -1591,13 +1591,13 @@
     "message": "Browser-Integration ist nicht aktiviert"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "Die Browser-Integration ist in der Bitwarden Desktop-Anwendung nicht eingerichtet. Bitte richte diese in den Einstellungen der Desktop-Anwendung ein."
+    "message": "Die Browser-Integration ist in der Bitwarden Custom Desktop-Anwendung nicht eingerichtet. Bitte richte diese in den Einstellungen der Desktop-Anwendung ein."
   },
   "startDesktopTitle": {
-    "message": "Bitwarden Desktop-Anwendung starten"
+    "message": "Bitwarden Custom Desktop-Anwendung starten"
   },
   "startDesktopDesc": {
-    "message": "Die Bitwarden Desktop-Anwendung muss gestartet werden, bevor Entsperren mit Biometrie verwendet werden kann."
+    "message": "Die Bitwarden Custom Desktop-Anwendung muss gestartet werden, bevor Entsperren mit Biometrie verwendet werden kann."
   },
   "errorEnableBiometricTitle": {
     "message": "Biometrie konnte nicht eingerichtet werden"
@@ -1633,13 +1633,13 @@
     "message": "Biometrie fehlgeschlagen"
   },
   "biometricsFailedDesc": {
-    "message": "Die biometrische Verifizierung kann nicht abgeschlossen werden. Versuch es mit dem Master-Passwort oder melde dich ab. Sollte das Problem weiterhin bestehen, kontaktiere bitte den Bitwarden-Support."
+    "message": "Die biometrische Verifizierung kann nicht abgeschlossen werden. Versuch es mit dem Master-Passwort oder melde dich ab. Sollte das Problem weiterhin bestehen, kontaktiere bitte den Bitwarden Custom-Support."
   },
   "nativeMessaginPermissionErrorTitle": {
     "message": "Berechtigung nicht erteilt"
   },
   "nativeMessaginPermissionErrorDesc": {
-    "message": "Ohne die Berechtigung zur Kommunikation mit der Bitwarden Desktop-Anwendung können wir keine Biometrie in der Browser-Erweiterung anbieten. Bitte versuche es erneut."
+    "message": "Ohne die Berechtigung zur Kommunikation mit der Bitwarden Custom Desktop-Anwendung können wir keine Biometrie in der Browser-Erweiterung anbieten. Bitte versuche es erneut."
   },
   "nativeMessaginPermissionSidebarTitle": {
     "message": "Fehler bei der Berechtigungsanfrage"
@@ -1657,7 +1657,7 @@
     "message": "Ausgeschlossene Domains"
   },
   "excludedDomainsDesc": {
-    "message": "Bitwarden wird keine Login-Daten für diese Domäne speichern. Du musst die Seite aktualisieren, damit die Änderungen wirksam werden."
+    "message": "Bitwarden Custom wird keine Login-Daten für diese Domäne speichern. Du musst die Seite aktualisieren, damit die Änderungen wirksam werden."
   },
   "excludedDomainsInvalidDomain": {
     "message": "$DOMAIN$ ist keine gültige Domain",
@@ -1670,15 +1670,15 @@
   },
   "send": {
     "message": "Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "searchSends": {
     "message": "Sends suchen",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "addSend": {
     "message": "Send hinzufügen",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendTypeText": {
     "message": "Text"
@@ -1688,7 +1688,7 @@
   },
   "allSends": {
     "message": "Alle Sends",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "maxAccessCountReached": {
     "message": "Maximale Zugriffsanzahl erreicht",
@@ -1705,7 +1705,7 @@
   },
   "copySendLink": {
     "message": "Send-Link kopieren",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "removePassword": {
     "message": "Passwort entfernen"
@@ -1718,11 +1718,11 @@
   },
   "deletedSend": {
     "message": "Send gelöscht",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendLink": {
     "message": "Send-Link",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "disabled": {
     "message": "Deaktiviert"
@@ -1732,23 +1732,23 @@
   },
   "deleteSend": {
     "message": "Send löschen",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "deleteSendConfirmation": {
     "message": "Bist du sicher, dass du dieses Send löschen möchtest?",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "editSend": {
     "message": "Send bearbeiten",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendTypeHeader": {
     "message": "Welche Art von Send ist das?",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendNameDesc": {
     "message": "Ein eigener Name, um dieses Send zu beschreiben.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendFileDesc": {
     "message": "Die Datei, die du senden möchtest."
@@ -1758,14 +1758,14 @@
   },
   "deletionDateDesc": {
     "message": "Das Send wird am angegebenen Datum zur angegebenen Uhrzeit dauerhaft gelöscht.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "expirationDate": {
     "message": "Ablaufdatum"
   },
   "expirationDateDesc": {
     "message": "Falls aktiviert, verfällt der Zugriff auf dieses Send am angegebenen Datum zur angegebenen Uhrzeit.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "oneDay": {
     "message": "1 Tag"
@@ -1787,56 +1787,56 @@
   },
   "maximumAccessCountDesc": {
     "message": "Falls aktiviert, können Benutzer nicht mehr auf dieses Send zugreifen, sobald die maximale Zugriffsanzahl erreicht ist.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendPasswordDesc": {
     "message": "Optional ein Passwort verlangen, damit Benutzer auf dieses Send zugreifen können.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendNotesDesc": {
     "message": "Private Notizen zu diesem Send.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendDisableDesc": {
     "message": "Dieses Send deaktivieren, damit niemand darauf zugreifen kann.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendShareDesc": {
     "message": "Kopiere den Send-Link beim Speichern in die Zwischenablage.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendTextDesc": {
     "message": "Der Text, den du senden möchtest."
   },
   "sendHideText": {
     "message": "Send-Text standardmäßig ausblenden.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "currentAccessCount": {
     "message": "Aktuelle Zugriffsanzahl"
   },
   "createSend": {
     "message": "Neues Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "newPassword": {
     "message": "Neues Passwort"
   },
   "sendDisabled": {
     "message": "Send gelöscht",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendDisabledWarning": {
     "message": "Aufgrund einer Unternehmensrichtlinie kannst du nur ein bestehendes Send löschen.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "createdSend": {
     "message": "Send erstellt",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "editedSend": {
     "message": "Send gespeichert",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendLinuxChromiumFileWarning": {
     "message": "Um eine Datei auszuwählen, öffne die Erweiterung in der Sidebar (falls möglich) oder öffne sie in einem neuem Fenster, indem du auf dieses Banner klickst."
@@ -2159,7 +2159,7 @@
     "message": "Mit Gerät anmelden"
   },
   "loginWithDeviceEnabledInfo": {
-    "message": "Die Anmeldung über ein Gerät muss in den Einstellungen der Bitwarden App eingerichtet werden. Benötigst du eine andere Option?"
+    "message": "Die Anmeldung über ein Gerät muss in den Einstellungen der Bitwarden Custom App eingerichtet werden. Benötigst du eine andere Option?"
   },
   "fingerprintPhraseHeader": {
     "message": "Fingerabdruck-Phrase"

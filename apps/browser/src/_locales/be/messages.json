@@ -1,9 +1,9 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "Bitwarden Custom"
   },
   "extName": {
-    "message": "Bitwarden – бясплатны менеджар пароляў",
+    "message": "Bitwarden Custom – бясплатны менеджар пароляў",
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
@@ -187,7 +187,7 @@
     "message": "Выйсці"
   },
   "about": {
-    "message": "Пра Bitwarden"
+    "message": "Пра Bitwarden Custom"
   },
   "version": {
     "message": "Версія"
@@ -220,13 +220,13 @@
     "message": "Даведка і зваротная сувязь"
   },
   "helpCenter": {
-    "message": "Даведачны цэнтр Bitwarden"
+    "message": "Даведачны цэнтр Bitwarden Custom"
   },
   "communityForums": {
-    "message": "Наведайце форумы супольнасці Bitwarden"
+    "message": "Наведайце форумы супольнасці Bitwarden Custom"
   },
   "contactSupport": {
-    "message": "Звярніцеся ў службу падтрымкі Bitwarden"
+    "message": "Звярніцеся ў службу падтрымкі Bitwarden Custom"
   },
   "sync": {
     "message": "Сінхранізаваць"
@@ -248,7 +248,7 @@
     "message": "Аўтаматычна генерыруйце надзейныя і ўнікальныя паролі для вашых лагінаў."
   },
   "bitWebVault": {
-    "message": "Вэб-сховішча Bitwarden"
+    "message": "Вэб-сховішча Bitwarden Custom"
   },
   "importItems": {
     "message": "Імпартаванне элементаў"
@@ -640,7 +640,7 @@
     "description": "Clipboard is the operating system thing where you copy/paste data to on your device."
   },
   "notificationAddDesc": {
-    "message": "Ці павінен Bitwarden запомніць гэты пароль?"
+    "message": "Ці павінен Bitwarden Custom запомніць гэты пароль?"
   },
   "notificationAddSave": {
     "message": "Захаваць"
@@ -652,13 +652,13 @@
     "message": "Пытацца пра абнаўленне пароля ад лагіна пры выяўленні змяненняў на вэб-сайце."
   },
   "notificationChangeDesc": {
-    "message": "Хочаце абнавіць гэты пароль у Bitwarden?"
+    "message": "Хочаце абнавіць гэты пароль у Bitwarden Custom?"
   },
   "notificationChangeSave": {
     "message": "Абнавіць"
   },
   "notificationUnlockDesc": {
-    "message": "Unlock your Bitwarden vault to complete the auto-fill request."
+    "message": "Unlock your Bitwarden Custom vault to complete the auto-fill request."
   },
   "notificationUnlock": {
     "message": "Unlock"
@@ -714,7 +714,7 @@
     "message": "Пры экспартаванні даныя шыфруюцца з дапамогай ключа шыфравання ўліковага запісу. Калі вы калі-небудзь зменіце ключ шыфравання ўліковага запісу, вам неабходна будзе экспартаваць даныя паўторна, паколькі вы не зможаце расшыфраваць гэты файл экспартавання."
   },
   "encExportAccountWarningDesc": {
-    "message": "Ключы шыфравання з'яўляюцца ўнікальнымі для кожнага ўліковага запісу Bitwarden, таму нельга імпартаваць зашыфраванае сховішча ў іншы ўліковы запіс."
+    "message": "Ключы шыфравання з'яўляюцца ўнікальнымі для кожнага ўліковага запісу Bitwarden Custom, таму нельга імпартаваць зашыфраванае сховішча ў іншы ўліковы запіс."
   },
   "exportMasterPassword": {
     "message": "Увядзіце ваш асноўны пароль для экспартавання даных сховішча."
@@ -726,7 +726,7 @@
     "message": "Даведацца пра арганізацыі"
   },
   "learnOrgConfirmation": {
-    "message": "Bitwarden дазваляе абагуліць элементы вашага сховішча з іншымі карыстальнікамі, выкарыстоўваючы арганізацыю. Хочаце наведаць сайт bitwarden.com, каб даведацца больш?"
+    "message": "Bitwarden Custom дазваляе абагуліць элементы вашага сховішча з іншымі карыстальнікамі, выкарыстоўваючы арганізацыю. Хочаце наведаць сайт bitwarden.com, каб даведацца больш?"
   },
   "moveToOrganization": {
     "message": "Перамясціць у арганізацыю"
@@ -844,7 +844,7 @@
     "message": "У вас прэміяльны статус!"
   },
   "premiumCurrentMemberThanks": {
-    "message": "Дзякуй за падтрымку Bitwarden."
+    "message": "Дзякуй за падтрымку Bitwarden Custom."
   },
   "premiumPrice": {
     "message": "Усяго за $PRICE$ у год!",
@@ -973,7 +973,7 @@
     "message": "Асяроддзе ўласнага хостынгу"
   },
   "selfHostedEnvironmentFooter": {
-    "message": "Увядзіце асноўны URL-адрас вашага лакальнага размяшчэння ўсталяванага Bitwarden."
+    "message": "Увядзіце асноўны URL-адрас вашага лакальнага размяшчэння ўсталяванага Bitwarden Custom."
   },
   "customEnvironment": {
     "message": "Карыстальніцкае асяроддзе"
@@ -1405,7 +1405,7 @@
     "message": "Ненадзейны асноўны пароль"
   },
   "weakMasterPasswordDesc": {
-    "message": "Асноўны пароль, які вы выбралі з'яўляецца ненадзейным. Для належнай абароны ўліковага запісу Bitwarden, вы павінны выкарыстоўваць надзейны асноўны пароль (або парольную фразу). Вы сапраўды хочаце выкарыстоўваць гэты асноўны пароль?"
+    "message": "Асноўны пароль, які вы выбралі з'яўляецца ненадзейным. Для належнай абароны ўліковага запісу Bitwarden Custom, вы павінны выкарыстоўваць надзейны асноўны пароль (або парольную фразу). Вы сапраўды хочаце выкарыстоўваць гэты асноўны пароль?"
   },
   "pin": {
     "message": "PIN-код",
@@ -1415,7 +1415,7 @@
     "message": "Разблакіраваць PIN-кодам"
   },
   "setYourPinCode": {
-    "message": "Прызначце PIN-код для разблакіроўкі Bitwarden. Налады PIN-кода будуць скінуты, калі вы калі-небудзь цалкам выйдзеце з праграмы."
+    "message": "Прызначце PIN-код для разблакіроўкі Bitwarden Custom. Налады PIN-кода будуць скінуты, калі вы калі-небудзь цалкам выйдзеце з праграмы."
   },
   "pinRequired": {
     "message": "Патрабуецца PIN-код."
@@ -1430,7 +1430,7 @@
     "message": "Чаканне пацвярджэння з камп'ютара"
   },
   "awaitDesktopDesc": {
-    "message": "Для ўключэння біяметрыі ў браўзеры, пацвердзіце гэта ў праграме Bitwarden на сваім камп'ютары."
+    "message": "Для ўключэння біяметрыі ў браўзеры, пацвердзіце гэта ў праграме Bitwarden Custom на сваім камп'ютары."
   },
   "lockWithMasterPassOnRestart": {
     "message": "Заблакіраваць асноўным паролем пры перазапуску браўзера"
@@ -1501,7 +1501,7 @@
     "message": "Форма размешчана на іншым дамене, які адрозніваецца ад URI вашага захаванага лагіна. Націсніце \"Добра\", каб усё роўна запоўніць або \"Скасаваць\" для спынення."
   },
   "autofillIframeWarningTip": {
-    "message": "Каб больш не атрымліваць гэта папярэджанне, захавайце гэты URI, $HOSTNAME$ у свае элементы ўваходу Bitwarden для гэтага сайта.",
+    "message": "Каб больш не атрымліваць гэта папярэджанне, захавайце гэты URI, $HOSTNAME$ у свае элементы ўваходу Bitwarden Custom для гэтага сайта.",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -1591,13 +1591,13 @@
     "message": "Інтэграцыя з браўзерам не ўключана"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "Інтэграцыя з браўзерам не ўключана ў праграме Bitwarden для камп'ютара. Уключыце гэты параметр у наладах праграмы."
+    "message": "Інтэграцыя з браўзерам не ўключана ў праграме Bitwarden Custom для камп'ютара. Уключыце гэты параметр у наладах праграмы."
   },
   "startDesktopTitle": {
-    "message": "Запусціць праграму Bitwarden на камп'ютары"
+    "message": "Запусціць праграму Bitwarden Custom на камп'ютары"
   },
   "startDesktopDesc": {
-    "message": "Для разблакіроўкі па біяметрыі неабходна запусціць праграму Bitwarden на камп'ютары."
+    "message": "Для разблакіроўкі па біяметрыі неабходна запусціць праграму Bitwarden Custom на камп'ютары."
   },
   "errorEnableBiometricTitle": {
     "message": "Немагчыма ўключыць біяметрыю"
@@ -1633,13 +1633,13 @@
     "message": "Biometrics failed"
   },
   "biometricsFailedDesc": {
-    "message": "Biometrics cannot be completed, consider using a master password or logging out. If this persists, please contact Bitwarden support."
+    "message": "Biometrics cannot be completed, consider using a master password or logging out. If this persists, please contact Bitwarden Custom support."
   },
   "nativeMessaginPermissionErrorTitle": {
     "message": "Дазволы не прадастаўлены"
   },
   "nativeMessaginPermissionErrorDesc": {
-    "message": "Без дазволу на злучэнне з праграмай Bitwarden на камп'ютары немагчыма будзе выкарыстоўваць біяметрыю ў пашырэнні браўзера. Калі ласка, паспрабуйце яшчэ раз."
+    "message": "Без дазволу на злучэнне з праграмай Bitwarden Custom на камп'ютары немагчыма будзе выкарыстоўваць біяметрыю ў пашырэнні браўзера. Калі ласка, паспрабуйце яшчэ раз."
   },
   "nativeMessaginPermissionSidebarTitle": {
     "message": "Памылка пры запыце дазволу"
@@ -1670,15 +1670,15 @@
   },
   "send": {
     "message": "Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "searchSends": {
     "message": "Пошук у Send'ах",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "addSend": {
     "message": "Дадаць Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendTypeText": {
     "message": "Тэкст"
@@ -1688,7 +1688,7 @@
   },
   "allSends": {
     "message": "Усе Send’ы",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "maxAccessCountReached": {
     "message": "Дасягнута максімальная колькасць доступаў",
@@ -1705,7 +1705,7 @@
   },
   "copySendLink": {
     "message": "Скапіяваць спасылку на Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "removePassword": {
     "message": "Выдаліць пароль"
@@ -1718,11 +1718,11 @@
   },
   "deletedSend": {
     "message": "Send выдалены",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendLink": {
     "message": "Спасылка на Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "disabled": {
     "message": "Адключана"
@@ -1732,23 +1732,23 @@
   },
   "deleteSend": {
     "message": "Выдаліць Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "deleteSendConfirmation": {
     "message": "Вы сапраўды хочаце выдаліць гэты Send?",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "editSend": {
     "message": "Рэдагаваць Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendTypeHeader": {
     "message": "Які гэта тып Send'a?",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendNameDesc": {
     "message": "Зразумелая назва для апісання гэтага Send'a.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendFileDesc": {
     "message": "Файл, які вы хочаце адправіць."
@@ -1758,14 +1758,14 @@
   },
   "deletionDateDesc": {
     "message": "Send будзе незваротна выдалены ў азначаныя дату і час.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "expirationDate": {
     "message": "Дата завяршэння"
   },
   "expirationDateDesc": {
     "message": "Калі зададзена, то доступ да гэтага Send міне ў азначаную дату і час.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "oneDay": {
     "message": "1 дзень"
@@ -1787,56 +1787,56 @@
   },
   "maximumAccessCountDesc": {
     "message": "Калі прызначана, то карыстальнікі больш не змогуць атрымаць доступ да гэтага Send пасля таго, як будзе дасягнута максімальная колькасць зваротаў.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendPasswordDesc": {
     "message": "Па магчымасці запытваць у карыстальнікаў пароль для доступу да гэтага Send.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendNotesDesc": {
     "message": "Прыватныя нататкі пра гэты Send.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendDisableDesc": {
     "message": "Адключыць гэты Send, каб ніхто не змог атрымаць да яго доступ.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendShareDesc": {
     "message": "Скапіяваць спасылку на гэты Send у буфер абмену пасля захавання.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendTextDesc": {
     "message": "Тэкст, які вы хочаце адправіць."
   },
   "sendHideText": {
     "message": "Прадвызначана хаваць тэкст гэтага Send.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "currentAccessCount": {
     "message": "Бягучая колькасць доступаў"
   },
   "createSend": {
     "message": "Стварыць новы Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "newPassword": {
     "message": "Новы пароль"
   },
   "sendDisabled": {
     "message": "Send адключаны",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendDisabledWarning": {
     "message": "У адпаведнасці з палітыкай прадпрыемства, вы можаце выдаліць толькі бягучы Send.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "createdSend": {
     "message": "Створаны Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "editedSend": {
     "message": "Send адрэдагаваны",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendLinuxChromiumFileWarning": {
     "message": "Для выбару файла неабходна адкрыць пашырэнне на бакавой панэлі (калі ёсць такая магчымасць) або перайсці ў новае акно, націснуўшы на гэты банэр."
@@ -2159,7 +2159,7 @@
     "message": "Уваход з прыладай"
   },
   "loginWithDeviceEnabledInfo": {
-    "message": "Неабходна наладзіць уваход з прыладай у наладах мабільнай праграмы Bitwarden. Патрабуецца іншы варыянт?"
+    "message": "Неабходна наладзіць уваход з прыладай у наладах мабільнай праграмы Bitwarden Custom. Патрабуецца іншы варыянт?"
   },
   "fingerprintPhraseHeader": {
     "message": "Фраза адбітка пальца"

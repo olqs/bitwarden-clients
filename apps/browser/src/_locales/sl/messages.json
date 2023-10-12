@@ -1,9 +1,9 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "Bitwarden Custom"
   },
   "extName": {
-    "message": "Bitwarden - Brezplačni upravitelj gesel",
+    "message": "Bitwarden Custom - Brezplačni upravitelj gesel",
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
@@ -248,7 +248,7 @@
     "message": "Avtomatično generiraj močna, edinstvena gesla za vaše prijave."
   },
   "bitWebVault": {
-    "message": "Bitwarden spletni trezor"
+    "message": "Bitwarden Custom spletni trezor"
   },
   "importItems": {
     "message": "Uvozi elemente"
@@ -640,7 +640,7 @@
     "description": "Clipboard is the operating system thing where you copy/paste data to on your device."
   },
   "notificationAddDesc": {
-    "message": "Naj si Bitwarden zapomni to geslo?"
+    "message": "Naj si Bitwarden Custom zapomni to geslo?"
   },
   "notificationAddSave": {
     "message": "Da, shrani zdaj"
@@ -649,16 +649,16 @@
     "message": "Predlagaj posodobitev obstoječe prijave"
   },
   "changedPasswordNotificationDesc": {
-    "message": "Vprašaj, ali naj Bitwarden posodobi geslo prijave, kadar zazna spremembo gesla na spletni strani"
+    "message": "Vprašaj, ali naj Bitwarden Custom posodobi geslo prijave, kadar zazna spremembo gesla na spletni strani"
   },
   "notificationChangeDesc": {
-    "message": "Želite, da Bitwarden shrani spremembo tega gesla?"
+    "message": "Želite, da Bitwarden Custom shrani spremembo tega gesla?"
   },
   "notificationChangeSave": {
     "message": "Da, posodobi zdaj"
   },
   "notificationUnlockDesc": {
-    "message": "Unlock your Bitwarden vault to complete the auto-fill request."
+    "message": "Unlock your Bitwarden Custom vault to complete the auto-fill request."
   },
   "notificationUnlock": {
     "message": "Unlock"
@@ -714,7 +714,7 @@
     "message": "Ta izvoz šifrira vaše podatke z uporabo ključa za šifriranje. Če boste kdaj zamenjali ključ za šifriranje, boste morali podatke izvoziti ponovno, saj pričujočega izvoza ne boste mogli več dešifrirati."
   },
   "encExportAccountWarningDesc": {
-    "message": "Ključ za šifriranje je edinstven za vsak Bitwarden račun, zato ni mogoče da se uvozi šifrirana datoteka v drugi račun."
+    "message": "Ključ za šifriranje je edinstven za vsak Bitwarden Custom račun, zato ni mogoče da se uvozi šifrirana datoteka v drugi račun."
   },
   "exportMasterPassword": {
     "message": "Za izvoz podatkov iz trezorja vnesite svoje glavno geslo."
@@ -726,7 +726,7 @@
     "message": "Preberite več o organizacijah"
   },
   "learnOrgConfirmation": {
-    "message": "Bitwarden omogoča, da elemente v svojem trezorju delite z drugimi z uporabo organizacije. Želite obskati spletišče bitwarden.com za več informacij?"
+    "message": "Bitwarden Custom omogoča, da elemente v svojem trezorju delite z drugimi z uporabo organizacije. Želite obskati spletišče bitwarden.com za več informacij?"
   },
   "moveToOrganization": {
     "message": "Premakni v organizacijo"
@@ -844,7 +844,7 @@
     "message": "Ste premium član!"
   },
   "premiumCurrentMemberThanks": {
-    "message": "Hvala, ker podpirate Bitwarden."
+    "message": "Hvala, ker podpirate Bitwarden Custom."
   },
   "premiumPrice": {
     "message": "Vse za samo $PRICE$ /leto!",
@@ -973,7 +973,7 @@
     "message": "Self-hosted environment"
   },
   "selfHostedEnvironmentFooter": {
-    "message": "Specify the base URL of your on-premises hosted Bitwarden installation."
+    "message": "Specify the base URL of your on-premises hosted Bitwarden Custom installation."
   },
   "customEnvironment": {
     "message": "Okolje po meri"
@@ -1006,7 +1006,7 @@
     "message": "Samodejno izpolni, ko se stran naloži"
   },
   "enableAutoFillOnPageLoadDesc": {
-    "message": "Če Bitwarden na strani zazna prijavni obrazec, ga samodejno izpolni takoj, ko se stran naloži."
+    "message": "Če Bitwarden Custom na strani zazna prijavni obrazec, ga samodejno izpolni takoj, ko se stran naloži."
   },
   "experimentalFeature": {
     "message": "Spletne strani, ki jim ne zaupate ali v katere so vdrli, lahko zlorabijo samodejno izpolnjevanje ob naložitvi strani."
@@ -1405,7 +1405,7 @@
     "message": "Šibko glavno geslo"
   },
   "weakMasterPasswordDesc": {
-    "message": "Glavno geslo, ki ste ga izbrali, je šibko. Za primerno zaščito svojega Bitwarden računa morate uporabiti močno glavno geslo. Ste prepričani, da želite uporabiti izbrano glavno geslo?"
+    "message": "Glavno geslo, ki ste ga izbrali, je šibko. Za primerno zaščito svojega Bitwarden Custom računa morate uporabiti močno glavno geslo. Ste prepričani, da želite uporabiti izbrano glavno geslo?"
   },
   "pin": {
     "message": "PIN",
@@ -1430,7 +1430,7 @@
     "message": "Čakam na potrditev z namizja"
   },
   "awaitDesktopDesc": {
-    "message": "Please confirm using biometrics in the Bitwarden desktop application to set up biometrics for browser."
+    "message": "Please confirm using biometrics in the Bitwarden Custom desktop application to set up biometrics for browser."
   },
   "lockWithMasterPassOnRestart": {
     "message": "Zakleni z glavnim geslom ob ponovnem zagonu brskalnika"
@@ -1501,7 +1501,7 @@
     "message": "The form is hosted by a different domain than the URI of your saved login. Choose OK to auto-fill anyway, or Cancel to stop."
   },
   "autofillIframeWarningTip": {
-    "message": "To prevent this warning in the future, save this URI, $HOSTNAME$, to your Bitwarden login item for this site.",
+    "message": "To prevent this warning in the future, save this URI, $HOSTNAME$, to your Bitwarden Custom login item for this site.",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -1591,13 +1591,13 @@
     "message": "Browser integration is not set up"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "Browser integration is not set up in the Bitwarden desktop application. Please set it up in the settings within the desktop application."
+    "message": "Browser integration is not set up in the Bitwarden Custom desktop application. Please set it up in the settings within the desktop application."
   },
   "startDesktopTitle": {
-    "message": "Start the Bitwarden desktop application"
+    "message": "Start the Bitwarden Custom desktop application"
   },
   "startDesktopDesc": {
-    "message": "The Bitwarden desktop application needs to be started before unlock with biometrics can be used."
+    "message": "The Bitwarden Custom desktop application needs to be started before unlock with biometrics can be used."
   },
   "errorEnableBiometricTitle": {
     "message": "Unable to set up biometrics"
@@ -1633,7 +1633,7 @@
     "message": "Biometrics failed"
   },
   "biometricsFailedDesc": {
-    "message": "Biometrics cannot be completed, consider using a master password or logging out. If this persists, please contact Bitwarden support."
+    "message": "Biometrics cannot be completed, consider using a master password or logging out. If this persists, please contact Bitwarden Custom support."
   },
   "nativeMessaginPermissionErrorTitle": {
     "message": "Dovoljenje manjka"
@@ -1657,7 +1657,7 @@
     "message": "Izključene domene"
   },
   "excludedDomainsDesc": {
-    "message": "Za te domene Bitwarden ne bo predlagal shranjevanja prijavnih podatkov. Sprememba nastavitev stopi v veljavo šele, ko osvežite stran."
+    "message": "Za te domene Bitwarden Custom ne bo predlagal shranjevanja prijavnih podatkov. Sprememba nastavitev stopi v veljavo šele, ko osvežite stran."
   },
   "excludedDomainsInvalidDomain": {
     "message": "$DOMAIN$ ni veljavna domena",
@@ -1670,15 +1670,15 @@
   },
   "send": {
     "message": "Pošiljke",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "searchSends": {
     "message": "Išči pošiljke",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "addSend": {
     "message": "Dodaj pošiljko",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendTypeText": {
     "message": "Besedilo"
@@ -1688,7 +1688,7 @@
   },
   "allSends": {
     "message": "Vse pošiljke",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "maxAccessCountReached": {
     "message": "Max access count reached",
@@ -1705,7 +1705,7 @@
   },
   "copySendLink": {
     "message": "Kopiraj povezavo pošiljke",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "removePassword": {
     "message": "Odstrani geslo"
@@ -1718,11 +1718,11 @@
   },
   "deletedSend": {
     "message": "Pošiljka izbrisana",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendLink": {
     "message": "Povezava pošiljke",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "disabled": {
     "message": "Onemogočeno"
@@ -1732,23 +1732,23 @@
   },
   "deleteSend": {
     "message": "Izbriši pošiljko",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "deleteSendConfirmation": {
     "message": "Ste prepričani, da želite izbrisati to pošiljko?",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "editSend": {
     "message": "Uredi pošiljko",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendTypeHeader": {
     "message": "Kakšna vrsta pošiljke je to?",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendNameDesc": {
     "message": "Prijazno ime, ki opisuje to pošiljko",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendFileDesc": {
     "message": "Datoteka, ki jo želite poslati"
@@ -1758,14 +1758,14 @@
   },
   "deletionDateDesc": {
     "message": "Pošiljka bo trajno izbrisana ob izbranem času.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "expirationDate": {
     "message": "Datum poteka"
   },
   "expirationDateDesc": {
     "message": "Če to nastavite, bo pošiljka potekla ob izbranem času.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "oneDay": {
     "message": "1 dan"
@@ -1787,56 +1787,56 @@
   },
   "maximumAccessCountDesc": {
     "message": "Če to nastavite, uporabniki po določenem številu dostopov ne bodo mogli več dostopati do pošiljke.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendPasswordDesc": {
     "message": "Za dostop do te pošiljke lahko nastavite geslo.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendNotesDesc": {
     "message": "Zasebni zapiski o tej pošiljki.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendDisableDesc": {
     "message": "Onemogoči to pošiljko, da nihče ne more dostopati do nje.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendShareDesc": {
     "message": "Kopiraj povezavo te pošiljke v odložišče, ko shranim.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendTextDesc": {
     "message": "Besedilo, ki ga želite poslati"
   },
   "sendHideText": {
     "message": "Privzeto skrij besedilo te pošiljke.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "currentAccessCount": {
     "message": "Trenutno število dstopov"
   },
   "createSend": {
     "message": "Nova pošiljka",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "newPassword": {
     "message": "Novo geslo"
   },
   "sendDisabled": {
     "message": "Pošiljka odstranjena",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendDisabledWarning": {
     "message": "Pravila podjetja določajo, da lahko izbrišete le obstoječo pošiljko.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "createdSend": {
     "message": "Pošiljka ustvarjena",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "editedSend": {
     "message": "Pošiljka shranjena",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendLinuxChromiumFileWarning": {
     "message": "In order to choose a file, open the extension in the sidebar (if possible) or pop out to a new window by clicking this banner."
@@ -2159,7 +2159,7 @@
     "message": "Log in with device"
   },
   "loginWithDeviceEnabledInfo": {
-    "message": "Log in with device must be set up in the settings of the Bitwarden app. Need another option?"
+    "message": "Log in with device must be set up in the settings of the Bitwarden Custom app. Need another option?"
   },
   "fingerprintPhraseHeader": {
     "message": "Identifikacijsko geslo"

@@ -1,9 +1,9 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "Bitwarden Custom"
   },
   "extName": {
-    "message": "Bitwarden",
+    "message": "Bitwarden Custom",
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
@@ -220,13 +220,13 @@
     "message": "Palīdzība un atsauksmes"
   },
   "helpCenter": {
-    "message": "Bitwarden palīdzības centrs"
+    "message": "Bitwarden Custom palīdzības centrs"
   },
   "communityForums": {
-    "message": "Izpētīt Bitwarden kopienas forumus"
+    "message": "Izpētīt Bitwarden Custom kopienas forumus"
   },
   "contactSupport": {
-    "message": "Sazināties ar Bitwarden atbalstu"
+    "message": "Sazināties ar Bitwarden Custom atbalstu"
   },
   "sync": {
     "message": "Sinhronizēt"
@@ -248,7 +248,7 @@
     "message": "Automātiski veido spēcīgas, neatkārtojamas paroles visiem pieteikšanās vienumiem."
   },
   "bitWebVault": {
-    "message": "Bitwarden tīmekļa glabātava"
+    "message": "Bitwarden Custom tīmekļa glabātava"
   },
   "importItems": {
     "message": "Ievietot vienumus"
@@ -640,7 +640,7 @@
     "description": "Clipboard is the operating system thing where you copy/paste data to on your device."
   },
   "notificationAddDesc": {
-    "message": "Vai Bitwarden atcerēties šo paroli?"
+    "message": "Vai Bitwarden Custom atcerēties šo paroli?"
   },
   "notificationAddSave": {
     "message": "Jā, saglabāt"
@@ -652,13 +652,13 @@
     "message": "Vaicāt atjaunināt pieteikšanās vienuma paroli, ja vietnē ir noteiktas tās izmaiņas."
   },
   "notificationChangeDesc": {
-    "message": "Vai atjaunināt šo paroli Bitwarden?"
+    "message": "Vai atjaunināt šo paroli Bitwarden Custom?"
   },
   "notificationChangeSave": {
     "message": "Jā, atjaunināt"
   },
   "notificationUnlockDesc": {
-    "message": "Jāatslēdz Bitwarden glabātava, lai pabeigtu automātiskās aizpildīšanas pieprasījumu."
+    "message": "Jāatslēdz Bitwarden Custom glabātava, lai pabeigtu automātiskās aizpildīšanas pieprasījumu."
   },
   "notificationUnlock": {
     "message": "Atslēgt"
@@ -714,7 +714,7 @@
     "message": "Šī izguve šifrē datus ar konta šifrēšanas atslēgu. Ja tā jebkad tiks mainīta, izvadi vajadzētu veikt vēlreiz, jo vairs nebūs iespējams atšifrēt šo datni."
   },
   "encExportAccountWarningDesc": {
-    "message": "Katram Bitwarden kontam ir neatkārtojamas šifrēšanas atslēgas, tādēļ nav iespējams ievietot šifrētu izguvi citā kontā."
+    "message": "Katram Bitwarden Custom kontam ir neatkārtojamas šifrēšanas atslēgas, tādēļ nav iespējams ievietot šifrētu izguvi citā kontā."
   },
   "exportMasterPassword": {
     "message": "Ievadīt galveno paroli, lai izgūtu glabātavas saturu."
@@ -726,7 +726,7 @@
     "message": "Uzzināt par apvienībām"
   },
   "learnOrgConfirmation": {
-    "message": "Bitwarden nodrošina iespēju kopīgot glabātavas vienumus ar citiem, kad tiek izmantota apvienība. Vai apmeklēt bitwarden.com tīmekļa vietni, lai uzzinātu vairāk?"
+    "message": "Bitwarden Custom nodrošina iespēju kopīgot glabātavas vienumus ar citiem, kad tiek izmantota apvienība. Vai apmeklēt bitwarden.com tīmekļa vietni, lai uzzinātu vairāk?"
   },
   "moveToOrganization": {
     "message": "Pārvietot uz apvienību"
@@ -844,7 +844,7 @@
     "message": "Tu esi Premium dalībnieks!"
   },
   "premiumCurrentMemberThanks": {
-    "message": "Paldies, ka atbalsti Bitwarden!"
+    "message": "Paldies, ka atbalsti Bitwarden Custom!"
   },
   "premiumPrice": {
     "message": "Viss par tikai $PRICE$ gadā!",
@@ -973,7 +973,7 @@
     "message": "Pašuzturēta vide"
   },
   "selfHostedEnvironmentFooter": {
-    "message": "Norādīt pašuzstādīta Bitwarden pamata URL."
+    "message": "Norādīt pašuzstādīta Bitwarden Custom pamata URL."
   },
   "customEnvironment": {
     "message": "Pielāgota vide"
@@ -1405,7 +1405,7 @@
     "message": "Vāja galvenā parole"
   },
   "weakMasterPasswordDesc": {
-    "message": "Jūsu izvēlētā galvenā parole ir vāja. Jums vajadzētu izmantot drošu galveno paroli (vai paroles vārdkopu), lai pienācīgi aizsargātu savu Bitwarden kontu. Vai tiešām vēlaties izmantot šo galveno paroli?"
+    "message": "Jūsu izvēlētā galvenā parole ir vāja. Jums vajadzētu izmantot drošu galveno paroli (vai paroles vārdkopu), lai pienācīgi aizsargātu savu Bitwarden Custom kontu. Vai tiešām vēlaties izmantot šo galveno paroli?"
   },
   "pin": {
     "message": "PIN",
@@ -1415,7 +1415,7 @@
     "message": "Atslēgt ar PIN"
   },
   "setYourPinCode": {
-    "message": "Iestatīt PIN kodu Bitwarden atslēgšanai. PIN iestatījumi tiks atiestatīti pēc pilnīgas izrakstīšanās no lietotnes."
+    "message": "Iestatīt PIN kodu Bitwarden Custom atslēgšanai. PIN iestatījumi tiks atiestatīti pēc pilnīgas izrakstīšanās no lietotnes."
   },
   "pinRequired": {
     "message": "Ir nepieciešams PIN kods."
@@ -1430,7 +1430,7 @@
     "message": "Tiek gaidīts apstiprinājums no darbvirsmas"
   },
   "awaitDesktopDesc": {
-    "message": "Lūgums apstiprināt ar biometriju Bitwarden darbvirsmas lietotnē, lai iespējotu biometriju pārlūkā."
+    "message": "Lūgums apstiprināt ar biometriju Bitwarden Custom darbvirsmas lietotnē, lai iespējotu biometriju pārlūkā."
   },
   "lockWithMasterPassOnRestart": {
     "message": "Aizslēgt ar galveno paroli pēc pārlūka atsāknēšanas"
@@ -1591,13 +1591,13 @@
     "message": "Savienojums ar pārlūku nav iespējots"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "Savienojums ar pārlūku nav iespējots Bitwarden darbvirsmas lietotnē. Lūgums iespējot to darbvirsmas lietotnes iestatījumos."
+    "message": "Savienojums ar pārlūku nav iespējots Bitwarden Custom darbvirsmas lietotnē. Lūgums iespējot to darbvirsmas lietotnes iestatījumos."
   },
   "startDesktopTitle": {
-    "message": "Palaist Bitwarden darbvirsmas lietotni"
+    "message": "Palaist Bitwarden Custom darbvirsmas lietotni"
   },
   "startDesktopDesc": {
-    "message": "Bitwarden darbvirsmas lietotnei ir jābūt sāknētai, pirms šī iespēja var tikt izmantota."
+    "message": "Bitwarden Custom darbvirsmas lietotnei ir jābūt sāknētai, pirms šī iespēja var tikt izmantota."
   },
   "errorEnableBiometricTitle": {
     "message": "Nevar iespējot biometriju"
@@ -1633,13 +1633,13 @@
     "message": "Biometrija neizdevās"
   },
   "biometricsFailedDesc": {
-    "message": "Biometriju nevar pabeigt, jāapsver galvenās paroles izmantošana vai atteikšanās. Ja tas turpinās, lūgums sazināties ar Bitwarden atbalstu."
+    "message": "Biometriju nevar pabeigt, jāapsver galvenās paroles izmantošana vai atteikšanās. Ja tas turpinās, lūgums sazināties ar Bitwarden Custom atbalstu."
   },
   "nativeMessaginPermissionErrorTitle": {
     "message": "Atļauja nav nodrošināta"
   },
   "nativeMessaginPermissionErrorDesc": {
-    "message": "Bez atļaujas sazināties ar Bitwarden darbvirsmas lietotni mēs nevaram nodrošināt biometriju pārlūka paplašinājumā. Lūgums mēģināt vēlreiz."
+    "message": "Bez atļaujas sazināties ar Bitwarden Custom darbvirsmas lietotni mēs nevaram nodrošināt biometriju pārlūka paplašinājumā. Lūgums mēģināt vēlreiz."
   },
   "nativeMessaginPermissionSidebarTitle": {
     "message": "Atļaujas pieprasījuma kļūda"
@@ -1657,7 +1657,7 @@
     "message": "Izņēmuma domēni"
   },
   "excludedDomainsDesc": {
-    "message": "Bitwarden nevaicās saglabāt pieteikšanās datus šiem domēniem. Ir jāpārlādē lapa, lai izmaiņas iedarbotos."
+    "message": "Bitwarden Custom nevaicās saglabāt pieteikšanās datus šiem domēniem. Ir jāpārlādē lapa, lai izmaiņas iedarbotos."
   },
   "excludedDomainsInvalidDomain": {
     "message": "$DOMAIN$ nav derīgs domēns",
@@ -1670,15 +1670,15 @@
   },
   "send": {
     "message": "Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "searchSends": {
     "message": "Meklēt Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "addSend": {
     "message": "Pievienot Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendTypeText": {
     "message": "Teksts"
@@ -1688,7 +1688,7 @@
   },
   "allSends": {
     "message": "Visi Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "maxAccessCountReached": {
     "message": "Sasniegts lielākais pieļaujamais piekļuves reižu skaits",
@@ -1705,7 +1705,7 @@
   },
   "copySendLink": {
     "message": "Ievietot Send saiti starpliktuvē",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "removePassword": {
     "message": "Noņemt paroli"
@@ -1718,11 +1718,11 @@
   },
   "deletedSend": {
     "message": "Send izdzēsts",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendLink": {
     "message": "Send saite",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "disabled": {
     "message": "Atspējots"
@@ -1732,23 +1732,23 @@
   },
   "deleteSend": {
     "message": "Izdzēst Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "deleteSendConfirmation": {
     "message": "Vai tiešām izdzēst šo Send?",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "editSend": {
     "message": "Labot Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendTypeHeader": {
     "message": "Kāds ir šī Send veids?",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendNameDesc": {
     "message": "Lasāms nosaukums, kas apraksta šo Send.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendFileDesc": {
     "message": "Datne, kuru ir vēlme nosūtīt."
@@ -1758,14 +1758,14 @@
   },
   "deletionDateDesc": {
     "message": "Send tiks neatgriezeniski izdzēsts norādītajā datumā un laikā.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "expirationDate": {
     "message": "Derīguma beigu datums"
   },
   "expirationDateDesc": {
     "message": "Ja iestatīts, piekļuve šim Send beigsies norādītajā datumā un laikā.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "oneDay": {
     "message": "1 diena"
@@ -1787,56 +1787,56 @@
   },
   "maximumAccessCountDesc": {
     "message": "Ja iestatīts, lietotāji nevarēs piekļūt šim Send, kad tiks sasniegts lielākais pieļaujamais piekļūšanas reižu skaits.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendPasswordDesc": {
     "message": "Pēc izvēles pieprasīt paroli, lai lietotāji varētu piekļūt šim Send.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendNotesDesc": {
     "message": "Personīgas piezīmes par šo Send.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendDisableDesc": {
     "message": "Izslēgt šo Send, lai neviens tam nevarētu piekļūt.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendShareDesc": {
     "message": "Saglabāšanas brīdī ievietot šī Send saiti starpliktuvē.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendTextDesc": {
     "message": "Teksts, kuru ir vēlme nosūtīt."
   },
   "sendHideText": {
     "message": "Pēc noklusējuma paslēpt šī Send tekstu.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "currentAccessCount": {
     "message": "Pašreizējais piekļuvju skaits"
   },
   "createSend": {
     "message": "Jauns Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "newPassword": {
     "message": "Jauna parole"
   },
   "sendDisabled": {
     "message": "Send noņemts",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendDisabledWarning": {
     "message": "Uzņēmuma nosacījumu dēļ ir iespējams izdzēst tikai esošu Send.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "createdSend": {
     "message": "Send izveidots",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "editedSend": {
     "message": "Send saglabāts",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendLinuxChromiumFileWarning": {
     "message": "Lai izvēlētos datni, paplašinājums ir jāatver sānjoslā (ja iespējams) vai atsevišķā logā, klikšķinot uz šī paziņojuma."
@@ -2159,7 +2159,7 @@
     "message": "Pieteikties ar ierīci"
   },
   "loginWithDeviceEnabledInfo": {
-    "message": "Ir jāuzstāda pieteikšanās ar ierīci Bitwarden lietotnes iestatījumos. Nepieciešama cita iespēja?"
+    "message": "Ir jāuzstāda pieteikšanās ar ierīci Bitwarden Custom lietotnes iestatījumos. Nepieciešama cita iespēja?"
   },
   "fingerprintPhraseHeader": {
     "message": "Atpazīšanas vārdkopa"

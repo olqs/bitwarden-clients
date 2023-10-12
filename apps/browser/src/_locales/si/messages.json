@@ -220,13 +220,13 @@
     "message": "උදව් සහ ප්රතිපෝෂණ"
   },
   "helpCenter": {
-    "message": "Bitwarden Help center"
+    "message": "Bitwarden Custom Help center"
   },
   "communityForums": {
-    "message": "Explore Bitwarden community forums"
+    "message": "Explore Bitwarden Custom community forums"
   },
   "contactSupport": {
-    "message": "Contact Bitwarden support"
+    "message": "Contact Bitwarden Custom support"
   },
   "sync": {
     "message": "සමමුහූර්තනය"
@@ -640,7 +640,7 @@
     "description": "Clipboard is the operating system thing where you copy/paste data to on your device."
   },
   "notificationAddDesc": {
-    "message": "Bitwarden ඔබ වෙනුවෙන් මෙම මුරපදය මතක තබා ගත යුතුද?"
+    "message": "Bitwarden Custom ඔබ වෙනුවෙන් මෙම මුරපදය මතක තබා ගත යුතුද?"
   },
   "notificationAddSave": {
     "message": "සුරකින්න"
@@ -652,13 +652,13 @@
     "message": "Ask to update a login's password when a change is detected on a website."
   },
   "notificationChangeDesc": {
-    "message": "Bitwarden හි මෙම මුරපදය යාවත්කාලීන කිරීමට ඔබට අවශ්යද?"
+    "message": "Bitwarden Custom හි මෙම මුරපදය යාවත්කාලීන කිරීමට ඔබට අවශ්යද?"
   },
   "notificationChangeSave": {
     "message": "යාවත්කාල"
   },
   "notificationUnlockDesc": {
-    "message": "Unlock your Bitwarden vault to complete the auto-fill request."
+    "message": "Unlock your Bitwarden Custom vault to complete the auto-fill request."
   },
   "notificationUnlock": {
     "message": "Unlock"
@@ -714,7 +714,7 @@
     "message": "මෙම අපනයනය ඔබගේ ගිණුමේ ගුප්තකේතන යතුර භාවිතා කරමින් ඔබගේ දත්ත සංකේතනය කරයි. ඔබ කවදා හෝ ඔබගේ ගිණුමේ ගුප්තකේතන යතුර භ්රමණය කරන්නේ නම්, ඔබට මෙම අපනයන ගොනුව විකේතනය කිරීමට නොහැකි වනු ඇති බැවින් ඔබ නැවත අපනයනය කළ යුතුය."
   },
   "encExportAccountWarningDesc": {
-    "message": "ගිණුම් සංකේතාංකන යතුරු එක් එක් Bitwarden පරිශීලක ගිණුමට අද්විතීය වේ, එබැවින් ඔබට සංකේතාත්මක අපනයනයක් වෙනත් ගිණුමකට ආනයනය කළ නොහැක."
+    "message": "ගිණුම් සංකේතාංකන යතුරු එක් එක් Bitwarden Custom පරිශීලක ගිණුමට අද්විතීය වේ, එබැවින් ඔබට සංකේතාත්මක අපනයනයක් වෙනත් ගිණුමකට ආනයනය කළ නොහැක."
   },
   "exportMasterPassword": {
     "message": "ඔබගේ සුරක්ෂිතාගාරය දත්ත අපනයනය කිරීමට ඔබගේ ප්රධාන මුරපදය ඇතුලත් කරන්න."
@@ -726,7 +726,7 @@
     "message": "සංවිධාන ගැන ඉගෙන ගන්න"
   },
   "learnOrgConfirmation": {
-    "message": "සංවිධානයක් භාවිතා කිරීමෙන් ඔබේ සුරක්ෂිතාගාරය අයිතම අන් අය සමඟ බෙදා ගැනීමට Bitwarden ඔබට ඉඩ දෙයි. වැඩි විස්තර දැනගැනීම සඳහා bitwarden.com වෙබ් අඩවියට පිවිසීමට ඔබ කැමතිද?"
+    "message": "සංවිධානයක් භාවිතා කිරීමෙන් ඔබේ සුරක්ෂිතාගාරය අයිතම අන් අය සමඟ බෙදා ගැනීමට Bitwarden Custom ඔබට ඉඩ දෙයි. වැඩි විස්තර දැනගැනීම සඳහා bitwarden.com වෙබ් අඩවියට පිවිසීමට ඔබ කැමතිද?"
   },
   "moveToOrganization": {
     "message": "සංවිධානය වෙත ගෙනයන්න"
@@ -1405,7 +1405,7 @@
     "message": "දුර්වල මාස්ටර් මුරපදය"
   },
   "weakMasterPasswordDesc": {
-    "message": "ඔබ තෝරාගත් ප්රධාන මුරපදය දුර්වලයි. ඔබේ Bitwarden ගිණුම නිසි ලෙස ආරක්ෂා කිරීම සඳහා ඔබ ශක්තිමත් ප්රධාන මුරපදයක් (හෝ passphrase) භාවිතා කළ යුතුය. ඔබට මෙම ප්රධාන මුරපදය භාවිතා කිරීමට අවශ්ය බව ඔබට විශ්වාසද?"
+    "message": "ඔබ තෝරාගත් ප්රධාන මුරපදය දුර්වලයි. ඔබේ Bitwarden Custom ගිණුම නිසි ලෙස ආරක්ෂා කිරීම සඳහා ඔබ ශක්තිමත් ප්රධාන මුරපදයක් (හෝ passphrase) භාවිතා කළ යුතුය. ඔබට මෙම ප්රධාන මුරපදය භාවිතා කිරීමට අවශ්ය බව ඔබට විශ්වාසද?"
   },
   "pin": {
     "message": "පින්",
@@ -1430,7 +1430,7 @@
     "message": "ඩෙස්ක්ටොප් සිට තහවුරු කිරීම බලාපොරොත්තුවෙන්"
   },
   "awaitDesktopDesc": {
-    "message": "බ්රව්සරය සඳහා biometrics සක්රීය කිරීම සඳහා Bitwarden ඩෙස්ක්ටොප් යෙදුමේ biometrics භාවිතා කිරීම තහවුරු කරන්න."
+    "message": "බ්රව්සරය සඳහා biometrics සක්රීය කිරීම සඳහා Bitwarden Custom ඩෙස්ක්ටොප් යෙදුමේ biometrics භාවිතා කිරීම තහවුරු කරන්න."
   },
   "lockWithMasterPassOnRestart": {
     "message": "බ්රව්සරය නැවත ආරම්භ මත ප්රධාන මුරපදය සමග අගුළු"
@@ -1501,7 +1501,7 @@
     "message": "The form is hosted by a different domain than the URI of your saved login. Choose OK to auto-fill anyway, or Cancel to stop."
   },
   "autofillIframeWarningTip": {
-    "message": "To prevent this warning in the future, save this URI, $HOSTNAME$, to your Bitwarden login item for this site.",
+    "message": "To prevent this warning in the future, save this URI, $HOSTNAME$, to your Bitwarden Custom login item for this site.",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -1633,7 +1633,7 @@
     "message": "Biometrics failed"
   },
   "biometricsFailedDesc": {
-    "message": "Biometrics cannot be completed, consider using a master password or logging out. If this persists, please contact Bitwarden support."
+    "message": "Biometrics cannot be completed, consider using a master password or logging out. If this persists, please contact Bitwarden Custom support."
   },
   "nativeMessaginPermissionErrorTitle": {
     "message": "අවසර ලබා දී නැත"
@@ -1670,15 +1670,15 @@
   },
   "send": {
     "message": "යවන්න",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "searchSends": {
     "message": "සෙවුම් යවයි",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "addSend": {
     "message": "යවන්න එකතු කරන්න",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendTypeText": {
     "message": "පෙළ"
@@ -1688,7 +1688,7 @@
   },
   "allSends": {
     "message": "සියලු යවයි",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "maxAccessCountReached": {
     "message": "මැක්ස් ප්රවේශ ගණන ළඟා",
@@ -1705,7 +1705,7 @@
   },
   "copySendLink": {
     "message": "සබැඳිය යවන්න පිටපත් කරන්න",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "removePassword": {
     "message": "මුරපදය ඉවත් කරන්න"
@@ -1718,11 +1718,11 @@
   },
   "deletedSend": {
     "message": "මකාදැමූ යවන්න",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendLink": {
     "message": "සබැඳිය යවන්න",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "disabled": {
     "message": "අබල කර ඇත"
@@ -1732,23 +1732,23 @@
   },
   "deleteSend": {
     "message": "යවන්න මකන්න",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "deleteSendConfirmation": {
     "message": "ඔබට මෙය මකා දැමීමට අවශ්ය බව ඔබට විශ්වාසද?",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "editSend": {
     "message": "යැවීම සංස්කරණය",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendTypeHeader": {
     "message": "මෙය කුමන ආකාරයේ යවන්න ද?",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendNameDesc": {
     "message": "මෙම යවන්න විස්තර කිරීමට මිත්රශීලී නමක්.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendFileDesc": {
     "message": "ඔබට යැවීමට අවශ්ය ගොනුව."
@@ -1758,14 +1758,14 @@
   },
   "deletionDateDesc": {
     "message": "නියම කරන ලද දිනය හා වේලාව මත Send ස්ථිරවම මකා දමනු ලැබේ.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "expirationDate": {
     "message": "කල් ඉකුත්වන දිනය"
   },
   "expirationDateDesc": {
     "message": "සකසා ඇත්නම්, මෙම යවන්න වෙත ප්රවේශය නිශ්චිත දිනය හා වේලාව කල් ඉකුත් වනු ඇත.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "oneDay": {
     "message": "දින 1"
@@ -1787,56 +1787,56 @@
   },
   "maximumAccessCountDesc": {
     "message": "සකසා ඇත්නම්, උපරිම ප්රවේශ ගණන ළඟා වූ පසු පරිශීලකයින්ට මෙම Send වෙත ප්රවේශ වීමට තවදුරටත් නොහැකි වනු ඇත.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendPasswordDesc": {
     "message": "විකල්පයක් ලෙස පරිශීලකයින්ට මෙම යවන්න වෙත ප්රවේශ වීමට මුරපදයක් අවශ්ය වේ.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendNotesDesc": {
     "message": "මේ ගැන පෞද්ගලික සටහන් යවන්න.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendDisableDesc": {
     "message": "මෙය අක්රීය කරන්න යවන්න එවිට කිසිවෙකුට එයට ප්රවේශ විය නොහැක.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendShareDesc": {
     "message": "සුරකින්න මත මෙම යවන්න ගේ සබැඳිය පසුරු පුවරුවට පිටපත් කරන්න.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendTextDesc": {
     "message": "ඔබට යැවීමට අවශ්ය පෙළ."
   },
   "sendHideText": {
     "message": "මෙම යවන්න පෙළ පෙරනිමියෙන් සඟවන්න.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "currentAccessCount": {
     "message": "වත්මන් ප්රවේශ ගණන්"
   },
   "createSend": {
     "message": "නව යවන්න නිර්මාණය",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "newPassword": {
     "message": "නව මුරපදය"
   },
   "sendDisabled": {
     "message": "ආබාධිත යවන්න",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendDisabledWarning": {
     "message": "ව්යවසාය ප්රතිපත්තියක් නිසා, ඔබට දැනට පවතින Send මකා දැමිය හැකිය.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "createdSend": {
     "message": "නිර්මාණය යවන්න",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "editedSend": {
     "message": "සංස්කරණය යවන්න",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendLinuxChromiumFileWarning": {
     "message": "ගොනුවක් තෝරා ගැනීම සඳහා, පැති තීරුවේ දිගුව විවෘත කරන්න (හැකි නම්) හෝ මෙම බැනරය ක්ලික් කිරීමෙන් නව කවුළුවකට පොප් කරන්න."
@@ -2159,7 +2159,7 @@
     "message": "Log in with device"
   },
   "loginWithDeviceEnabledInfo": {
-    "message": "Log in with device must be set up in the settings of the Bitwarden app. Need another option?"
+    "message": "Log in with device must be set up in the settings of the Bitwarden Custom app. Need another option?"
   },
   "fingerprintPhraseHeader": {
     "message": "Fingerprint phrase"

@@ -1,9 +1,9 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "Bitwarden Custom"
   },
   "extName": {
-    "message": "Bitwarden - Quản lý mật khẩu miễn phí",
+    "message": "Bitwarden Custom - Quản lý mật khẩu miễn phí",
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
@@ -220,13 +220,13 @@
     "message": "Trợ giúp & phản hồi"
   },
   "helpCenter": {
-    "message": "Trung tâm hỗ trợ Bitwarden"
+    "message": "Trung tâm hỗ trợ Bitwarden Custom"
   },
   "communityForums": {
-    "message": "Khám phá diễn đàn cộng đồng Bitwarden"
+    "message": "Khám phá diễn đàn cộng đồng Bitwarden Custom"
   },
   "contactSupport": {
-    "message": "Liên hệ với bộ phận hỗ trợ Bitwarden"
+    "message": "Liên hệ với bộ phận hỗ trợ Bitwarden Custom"
   },
   "sync": {
     "message": "Đồng bộ"
@@ -248,7 +248,7 @@
     "message": "Tự động tạo mật khẩu mạnh mẽ, độc nhất cho đăng nhập của bạn."
   },
   "bitWebVault": {
-    "message": "Trang web kho lưu trữ Bitwarden"
+    "message": "Trang web kho lưu trữ Bitwarden Custom"
   },
   "importItems": {
     "message": "Nhập mục"
@@ -531,7 +531,7 @@
     "message": "Thay đổi mật khẩu chính"
   },
   "changeMasterPasswordConfirmation": {
-    "message": "Bạn có thể thay đổi mật khẩu chính trong trang web kho lưu trữ của Bitwarden. Bạn có muốn truy cập trang web ngay bây giờ không?"
+    "message": "Bạn có thể thay đổi mật khẩu chính trong trang web kho lưu trữ của Bitwarden Custom. Bạn có muốn truy cập trang web ngay bây giờ không?"
   },
   "twoStepLoginConfirmation": {
     "message": "Xác thực hai lớp giúp cho tài khoản của bạn an toàn hơn bằng cách yêu cầu bạn xác minh thông tin đăng nhập của bạn bằng một thiết bị khác như khóa bảo mật, ứng dụng xác thực, SMS, cuộc gọi điện thoại hoặc email. Bạn có thể bật xác thực hai lớp trong kho bitwarden nền web. Bạn có muốn ghé thăm trang web bây giờ?"
@@ -640,7 +640,7 @@
     "description": "Clipboard is the operating system thing where you copy/paste data to on your device."
   },
   "notificationAddDesc": {
-    "message": "Bạn có cần Bitwarden nhớ giúp bạn mật khẩu này không?"
+    "message": "Bạn có cần Bitwarden Custom nhớ giúp bạn mật khẩu này không?"
   },
   "notificationAddSave": {
     "message": "Lưu"
@@ -652,13 +652,13 @@
     "message": "Yêu cầu cập nhật mật khẩu đăng nhập khi phát hiện thay đổi trên trang web."
   },
   "notificationChangeDesc": {
-    "message": "Bạn có muốn cập nhật mật khẩu này trên Bitwarden không?"
+    "message": "Bạn có muốn cập nhật mật khẩu này trên Bitwarden Custom không?"
   },
   "notificationChangeSave": {
     "message": "Cập nhật"
   },
   "notificationUnlockDesc": {
-    "message": "Vui lòng mở khóa Kho Bitwarden của bạn để hoàn thành quá trình tự động điền."
+    "message": "Vui lòng mở khóa Kho Bitwarden Custom của bạn để hoàn thành quá trình tự động điền."
   },
   "notificationUnlock": {
     "message": "Mở khóa"
@@ -714,7 +714,7 @@
     "message": "Quá trình xuất này sẽ mã hóa dữ liệu của bạn bằng khóa mã hóa của tài khoản. Nếu bạn từng xoay khóa mã hóa tài khoản của mình, bạn nên xuất lại vì bạn sẽ không thể giải mã tệp xuất này."
   },
   "encExportAccountWarningDesc": {
-    "message": "Các khóa mã hóa tài khoản là duy nhất cho mỗi tài khoản người dùng Bitwarden, vì vậy bạn không thể nhập một bản xuất được mã hóa vào một tài khoản khác."
+    "message": "Các khóa mã hóa tài khoản là duy nhất cho mỗi tài khoản người dùng Bitwarden Custom, vì vậy bạn không thể nhập một bản xuất được mã hóa vào một tài khoản khác."
   },
   "exportMasterPassword": {
     "message": "Nhập mật khẩu chính để xuất kho lưu trữ của bạn."
@@ -726,7 +726,7 @@
     "message": "Xem tổ chức của bạn"
   },
   "learnOrgConfirmation": {
-    "message": "Bitwarden cho phép bạn chia sẻ các mục trong kho của mình với những người khác bằng cách sử dụng tài khoản tổ chức. Bạn có muốn truy cập trang web bitwarden.com để tìm hiểu thêm không?"
+    "message": "Bitwarden Custom cho phép bạn chia sẻ các mục trong kho của mình với những người khác bằng cách sử dụng tài khoản tổ chức. Bạn có muốn truy cập trang web bitwarden.com để tìm hiểu thêm không?"
   },
   "moveToOrganization": {
     "message": "Di chuyển đến tổ chức"
@@ -844,7 +844,7 @@
     "message": "Bạn là một thành viên cao cấp!"
   },
   "premiumCurrentMemberThanks": {
-    "message": "Cảm ơn bạn vì đã hỗ trợ Bitwarden."
+    "message": "Cảm ơn bạn vì đã hỗ trợ Bitwarden Custom."
   },
   "premiumPrice": {
     "message": "Tất cả chỉ với $PRICE$/năm!",
@@ -1405,7 +1405,7 @@
     "message": "Mật khẩu chính yếu"
   },
   "weakMasterPasswordDesc": {
-    "message": "Mật khẩu chính bạn vừa chọn có vẻ yếu. Bạn nên chọn mật khẩu chính (hoặc cụm từ mật khẩu) mạnh để bảo vệ đúng cách tài khoản Bitwarden của bạn. Bạn có thực sự muốn dùng mật khẩu chính này?"
+    "message": "Mật khẩu chính bạn vừa chọn có vẻ yếu. Bạn nên chọn mật khẩu chính (hoặc cụm từ mật khẩu) mạnh để bảo vệ đúng cách tài khoản Bitwarden Custom của bạn. Bạn có thực sự muốn dùng mật khẩu chính này?"
   },
   "pin": {
     "message": "Mã PIN",
@@ -1415,7 +1415,7 @@
     "message": "Mở khóa bằng mã PIN"
   },
   "setYourPinCode": {
-    "message": "Đặt mã PIN của bạn để mở khóa Bitwarden. Cài đặt mã PIN của bạn sẽ bị xóa nếu bạn hoàn toàn đăng xuất khỏi ứng dụng."
+    "message": "Đặt mã PIN của bạn để mở khóa Bitwarden Custom. Cài đặt mã PIN của bạn sẽ bị xóa nếu bạn hoàn toàn đăng xuất khỏi ứng dụng."
   },
   "pinRequired": {
     "message": "Mã PIN là bắt buộc."
@@ -1430,7 +1430,7 @@
     "message": "Đợi xác nhận từ máy tính"
   },
   "awaitDesktopDesc": {
-    "message": "Vui lòng xác nhận sử dụng sinh trắc học với ứng dụng Bitwarden trên máy tính."
+    "message": "Vui lòng xác nhận sử dụng sinh trắc học với ứng dụng Bitwarden Custom trên máy tính."
   },
   "lockWithMasterPassOnRestart": {
     "message": "Khóa với mật khẩu chính khi trình duyệt khởi động lại"
@@ -1501,7 +1501,7 @@
     "message": "Mẫu điền thông tin này được lưu tại một tên miền khác với URI lưu tại thông tin đăng nhập của bạn. Hãy chọn OK để tiếp tục tự động điền, hoặc Hủy bỏ để dừng lại."
   },
   "autofillIframeWarningTip": {
-    "message": "Để chặn cảnh báo này trong tương lai, hãy lưu URI này, $HOSTNAME$, vào thông tin đăng nhập của bạn cho trang này ở Kho Bitwarden.",
+    "message": "Để chặn cảnh báo này trong tương lai, hãy lưu URI này, $HOSTNAME$, vào thông tin đăng nhập của bạn cho trang này ở Kho Bitwarden Custom.",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -1591,13 +1591,13 @@
     "message": "Tích hợp trình duyệt chưa được kích hoạt"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "Tích hợp trình duyệt không được thiết lập trong ứng dụng máy tính để bàn Bitwarden. Vui lòng thiết lập nó trong cài đặt trong ứng dụng máy tính để bàn."
+    "message": "Tích hợp trình duyệt không được thiết lập trong ứng dụng máy tính để bàn Bitwarden Custom. Vui lòng thiết lập nó trong cài đặt trong ứng dụng máy tính để bàn."
   },
   "startDesktopTitle": {
-    "message": "Mở ứng dụng Bitwarden trên máy tính"
+    "message": "Mở ứng dụng Bitwarden Custom trên máy tính"
   },
   "startDesktopDesc": {
-    "message": "Ứng dụng máy tính để bàn Bitwarden cần được khởi động trước khi có thể sử dụng tính năng mở khóa bằng sinh trắc học."
+    "message": "Ứng dụng máy tính để bàn Bitwarden Custom cần được khởi động trước khi có thể sử dụng tính năng mở khóa bằng sinh trắc học."
   },
   "errorEnableBiometricTitle": {
     "message": "Không thể bật nhận dạng sinh trắc học"
@@ -1633,13 +1633,13 @@
     "message": "Biometrics failed"
   },
   "biometricsFailedDesc": {
-    "message": "Biometrics cannot be completed, consider using a master password or logging out. If this persists, please contact Bitwarden support."
+    "message": "Biometrics cannot be completed, consider using a master password or logging out. If this persists, please contact Bitwarden Custom support."
   },
   "nativeMessaginPermissionErrorTitle": {
     "message": "Quyền chưa được cấp"
   },
   "nativeMessaginPermissionErrorDesc": {
-    "message": "Nếu không được phép giao tiếp với Ứng dụng máy tính để bàn Bitwarden, chúng tôi không thể cung cấp sinh trắc học trong tiện ích mở rộng trình duyệt. Vui lòng thử lại."
+    "message": "Nếu không được phép giao tiếp với Ứng dụng máy tính để bàn Bitwarden Custom, chúng tôi không thể cung cấp sinh trắc học trong tiện ích mở rộng trình duyệt. Vui lòng thử lại."
   },
   "nativeMessaginPermissionSidebarTitle": {
     "message": "Lỗi yêu cầu quyền"
@@ -1657,7 +1657,7 @@
     "message": "Tên miền đã loại trừ"
   },
   "excludedDomainsDesc": {
-    "message": "Bitwarden sẽ không yêu cầu lưu thông tin đăng nhập cho các miền này. Bạn phải làm mới trang để các thay đổi có hiệu lực."
+    "message": "Bitwarden Custom sẽ không yêu cầu lưu thông tin đăng nhập cho các miền này. Bạn phải làm mới trang để các thay đổi có hiệu lực."
   },
   "excludedDomainsInvalidDomain": {
     "message": "$DOMAIN$ không phải là tên miền hợp lệ",
@@ -1670,15 +1670,15 @@
   },
   "send": {
     "message": "Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "searchSends": {
     "message": "Tìm kiếm Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "addSend": {
     "message": "Thêm Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendTypeText": {
     "message": "Văn bản"
@@ -1688,7 +1688,7 @@
   },
   "allSends": {
     "message": "Toàn bộ Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "maxAccessCountReached": {
     "message": "Đã đạt đến số lượng truy cập tối đa",
@@ -1705,7 +1705,7 @@
   },
   "copySendLink": {
     "message": "Sao chép liên kết Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "removePassword": {
     "message": "Xóa mật khẩu"
@@ -1718,11 +1718,11 @@
   },
   "deletedSend": {
     "message": "Đã xóa Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendLink": {
     "message": "Gửi liên kết",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "disabled": {
     "message": "Đã tắt"
@@ -1732,23 +1732,23 @@
   },
   "deleteSend": {
     "message": "Xóa Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "deleteSendConfirmation": {
     "message": "Bạn có chắc chắn muốn xóa Send này?",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "editSend": {
     "message": "Chỉnh sửa Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendTypeHeader": {
     "message": "Đây là loại Send gì?",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendNameDesc": {
     "message": "Một cái tên thân thiện để mô tả về Send này.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendFileDesc": {
     "message": "Tập tin bạn muốn gửi."
@@ -1758,14 +1758,14 @@
   },
   "deletionDateDesc": {
     "message": "Send sẽ được xóa vĩnh viễn vào ngày và giờ được chỉ định.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "expirationDate": {
     "message": "Ngày hết hạn"
   },
   "expirationDateDesc": {
     "message": "Nếu được thiết lập, truy cập vào Send này sẽ hết hạn vào ngày và giờ được chỉ định.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "oneDay": {
     "message": "1 ngày"
@@ -1787,56 +1787,56 @@
   },
   "maximumAccessCountDesc": {
     "message": "Nếu được thiết lập, khi đã đạt tới số lượng truy cập tối đa, người dùng sẽ không thể truy cập Send này nữa.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendPasswordDesc": {
     "message": "Tùy chọn yêu cầu mật khẩu để người dùng truy cập Gửi này.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendNotesDesc": {
     "message": "Ghi chú riêng tư về Send này.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendDisableDesc": {
     "message": "Deactivate this Send so that no one can access it.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendShareDesc": {
     "message": "Sao chép liên kết của Send này vào khay nhớ tạm khi lưu.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendTextDesc": {
     "message": "Văn bản bạn muốn gửi."
   },
   "sendHideText": {
     "message": "Ẩn văn bản của Send này theo mặc định.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "currentAccessCount": {
     "message": "Số lượng truy cập hiện tại"
   },
   "createSend": {
     "message": "Send mới",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "newPassword": {
     "message": "Mật khẩu mới"
   },
   "sendDisabled": {
     "message": "Đã loại bỏ Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendDisabledWarning": {
     "message": "Do chính sách doanh nghiệp, bạn chỉ có thể xóa những Send hiện có.",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "createdSend": {
     "message": "Đã tạo Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "editedSend": {
     "message": "Đã chỉnh sửa Send",
-    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated."
+    "description": "'Send' is a noun and the name of a feature called 'Bitwarden Custom Send'. It should not be translated."
   },
   "sendLinuxChromiumFileWarning": {
     "message": "In order to choose a file, open the extension in the sidebar (if possible) or pop out to a new window by clicking this banner."
@@ -2159,7 +2159,7 @@
     "message": "Đăng nhập bằng thiết bị"
   },
   "loginWithDeviceEnabledInfo": {
-    "message": "Log in with device must be set up in the settings of the Bitwarden app. Need another option?"
+    "message": "Log in with device must be set up in the settings of the Bitwarden Custom app. Need another option?"
   },
   "fingerprintPhraseHeader": {
     "message": "Cụm từ dấu vân tay"
