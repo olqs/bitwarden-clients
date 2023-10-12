@@ -112,12 +112,12 @@
   ],
   "applications": {
     "gecko": {
-      "id": "{446900e4-71c2-419f-a6a7-df9c091e268b}",
+      "id": "{a62ab7dd-2610-40ff-a834-5ec7773cc5c8}",
       "strict_min_version": "91.0"
     }
   },
   "sidebar_action": {
-    "default_title": "Bitwarden",
+    "default_title": "Bitwarden Custom",
     "default_panel": "popup/index.html?uilocation=sidebar",
     "default_icon": "images/icon19.png"
   },

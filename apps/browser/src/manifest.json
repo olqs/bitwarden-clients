@@ -99,7 +99,7 @@
   ],
   "applications": {
     "gecko": {
-      "id": "Bitwarden Custom olqs",
+      "id": "{a62ab7dd-2610-40ff-a834-5ec7773cc5c8}",
       "strict_min_version": "91.0"
     }
   },
